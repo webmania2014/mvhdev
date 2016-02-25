@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beo\n"
+"POT-Creation-Date: 2014-09-16 20:11+0630\n"
+"PO-Revision-Date: 2015-04-22 18:16+0630\n"
+"Last-Translator: \n"
+"Language-Team: Ko Ko Zin <kozin@mvhnetworks.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: de_DE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2;plural=n==1 ? 0 : 1;\n"
+
+# ###################################################
+# Settings Module
+# ###################################################
+# ## General ##
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Settings - API"
+msgstr "Settings - API"
+
+msgid "Settings - Languages"
+msgstr "Settings - Languages"
+
+msgid "Settings - System Langauges"
+msgstr "Settings - System Langauges"
+
+msgid "Settings - Add New Language"
+msgstr "Settings - Add New Language"
+
+msgid "Settings - Edit Language"
+msgstr "Settings - Edit Language"
+
+msgid "Settings - Delete Language"
+msgstr "Settings - Delete Language"
+
+msgid "Settings - Users"
+msgstr "Settings - Users"
+
+msgid "Settings - Softwares"
+msgstr "Settings - Softwares"
+
+msgid "Settings - Subject Areas"
+msgstr "Settings - Subject Areas"
+
+msgid "Settings - Sync"
+msgstr "Settings - Sync"
+
+msgid "Settings - Templates"
+msgstr "Settings - Templates"
+
+msgid "Connection Error"
+msgstr "Connection Error"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Locale"
+msgstr "Locale"
+
+msgid "Regional Code"
+msgstr "Regional Code"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Disable"
+msgstr "Disable"
+
+msgid "General"
+msgstr "General"
+
+msgid "Languages"
+msgstr "Languages"
+
+msgid "Subject areas"
+msgstr "Subject areas"
+
+msgid "Softwares"
+msgstr "Softwares"
+
+msgid "Templates"
+msgstr "Templates"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Sync"
+msgstr "Sync"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Source Language"
+msgstr "Source Language"
+
+msgid "Target Language"
+msgstr "Target Language"
+
+msgid "Subject"
+msgstr "Subject"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Site Name"
+msgstr "Site Name"
+
+msgid "Site Description"
+mgstr "Site Description"
+
+msgid "Footer Text"
+msgstr "Footer Text"
+
+msgid "Privacy Policy Page"
+msgstr "Privacy Policy Page"
+
+msgid "Terms & Conditions Page"
+msgstr "Terms & Conditions Page"
+
+msgid "System Language"
+msgstr "System Language"
+
+msgid "Admin Email"
+msgstr "Admin Email"
+
+msgid "Application Form Email"
+msgstr "Application Form Email"
+
+msgid "Invoice Email"
+msgstr "Invoice Email"
+
+msgid "Manage System Languages"
+msgstr "Manage System Languages"
+
+msgid "Sync Languages"
+msgstr "Sync Languages"
+
+msgid "Sync Softwares"
+msgstr "Sync Softwares"
+
+msgid "Sync Subject Areas"
+msgstr "Sync Subject Areas"
+
+msgid "Sync Now"
+msgstr "Sync Now"
+
+msgid "FTP Host"
+msgstr "FTP Host"
+
+msgid "FTP Username"
+msgstr "FTP Username"
+
+msgid "FTP Password"
+msgstr "FTP Password"
+
+msgid "FTP Port"
+msgstr "FTP Port"
+
+msgid "Directory"
+msgstr "Directory"
+
+msgid "Test FTP Connection"
+msgstr "Test FTP Connection"
+
+msgid "API URL"
+msgstr "API URL"
+
+msgid "API Username"
+msgstr "API Username"
+
+msgid "API Password"
+msgstr "API Password"
+
+msgid "Back to Languages"
+msgstr "Back to Languages"
+
+msgid "Add Language"
+msgstr "Add Language"
+
+msgid "Click to enable language."
+msgstr "Click to enable language."
+
+msgid "Click to disable language."
+msgstr "Click to disable language."
+
+# ## Messages ##
+
+msgid "Allow file types are png, gif, jpg. The maximum file size is 2MB."
+msgstr "Allow file types are png, gif, jpg. The maximum file size is 2MB."
+
+msgid "Allow file types are pdf, docx, zip. The maximum file size is 2MB."
+msgstr "Allow file types are pdf, docx, zip. The maximum file size is 2MB."
+
+msgid "Site name will be added into page title for all pages."
+msgstr "Site name will be added into page title for all pages."
+
+msgid "Footer text will be display at the bottom of page."
+msgstr "Footer text will be display at the bottom of page."
+
+msgid "Site description will be added into meta tag."
+msgstr "Site description will be added into meta tag."
+
+msgid "Select Privacy Policy page."
+msgstr "Select Privacy Policy page."
+
+msgid "Select Term & Conditions page."
+msgstr "Select Term & Conditions page."
+
+msgid "Select language to use in system."
+msgstr "Select language to use in system."
+
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+msgid "You're about to delete a language <strong>%s</strong>. It'll be deleted permanently and no way to get back."
+msgstr "You're about to delete a language <strong>%s</strong>. It'll be deleted permanently and no way to get back."
+
+msgid "Please continue to delete language or cancel this operation."
+msgstr "Please continue to delete language or cancel this operation."
+
+msgid "You're about to delete a template <strong>%s</strong>. It'll be deleted permanently and no way to get back."
+msgstr "You're about to delete a template <strong>%s</strong>. It'll be deleted permanently and no way to get back."
+
+msgid "Please continue to delete template or cancel this operation."
+msgstr "Please continue to delete template or cancel this operation."
+
+# application/modules/settings/config/io_messages.php ( Line: 20 )
+msgid "Your settings have been saved."
+msgstr "Your settings have been saved."
+
+# application/modules/settings/config/io_messages.php ( Line: 21 )
+msgid "Your settings have not saved."
+msgstr "Your settings have not saved."
+
+# application/modules/settings/config/io_messages.php ( Line: 22 )
+msgid "%s synchronization completed. %s have beeb updated."
+msgstr "%s synchronization completed. %s have beeb updated."
+
+# application/modules/settings/config/io_messages.php ( Line: 23 )
+msgid "%s synchronization was not completed."
+msgstr "%s synchronization was not completed."
+
+# application/modules/settings/config/io_messages.php ( Line: 24 )
+msgid "Language has been added."
+msgstr "Language has been added."
+
+# application/modules/settings/config/io_messages.php ( Line: 25 )
+msgid "Language was not able to add."
+msgstr "Language was not able to add."
+
+# application/modules/settings/config/io_messages.php ( Line: 26 )
+msgid "Language has successfully updated."
+msgstr "Language has successfully updated."
+
+# application/modules/settings/config/io_messages.php ( Line: 27 )
+msgid "Language couldn't be updated."
+msgstr "Language couldn't be updated."
+
+# application/modules/settings/config/io_messages.php ( Line: 28 )
+msgid "Cannot disable language. At least one language must be enabled."
+msgstr "Cannot disable language. At least one language must be enabled."
+
+# application/modules/settings/config/io_messages.php ( Line: 29 )
+msgid "Cannot delete language. At least one language must be existed."
+msgstr "Cannot delete language. At least one language must be existed."
+
+# application/modules/settings/config/io_messages.php ( Line: 30 )
+msgid "Language was not able to delete."
+msgstr "Language was not able to delete."
+
+# application/modules/settings/config/io_messages.php ( Line: 31 )
+msgid "Language has been deleted."
+msgstr "Language has been deleted."
+
+# application/modules/settings/config/io_messages.php ( Line: 32 )
+msgid ""
+"Unable to login to your FTP server. Please check your username and password."
+msgstr ""
+"Unable to login to your FTP server. Please check your username and password."
+
+# application/modules/settings/config/io_messages.php ( Line: 33 )
+msgid "Successfully connected to FTP."
+msgstr "Successfully connected to FTP."
+
+# application/modules/settings/config/io_messages.php ( Line: 34 )
+msgid "FTP information is missing. Please provide in settings."
+msgstr "FTP information is missing. Please provide in settings."
+
+# application/modules/settings/config/io_messages.php ( Line: 35 )
+msgid "New template has successfully created."
+msgstr "New template has successfully created."
+
+# application/modules/settings/config/io_messages.php ( Line: 36 )
+msgid "Template has successfully updated."
+msgstr "Template has successfully updated."
+
+# application/modules/settings/config/io_messages.php ( Line: 37 )
+msgid "Template has successfully deleted."
+msgstr "Template has successfully deleted."
+
+# application/modules/settings/config/io_messages.php ( Line: 38 )
+msgid "Template has not deleted."
+msgstr "Template has not deleted."
+
+# application/modules/settings/config/io_messages.php ( Line: 39 )
+msgid "Template is using in one of test translation and couldn't be delete."
+msgstr "Template is using in one of test translation and couldn't be delete."

@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beo\n"
+"POT-Creation-Date: 2014-09-16 20:11+0630\n"
+"PO-Revision-Date: 2015-04-22 18:19+0630\n"
+"Last-Translator: \n"
+"Language-Team: Ko Ko Zin <kozin@mvhnetworks.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: de_DE\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2;plural=n==1 ? 0 : 1;\n"
+
+# ###################################################
+# General
+# ##################################################
+msgid "Powered by %s."
+msgstr "ngetrieben durch %s"
+
+# ###################################################
+# Navigations
+# ###################################################
+# Portal
+msgid "Log in"
+msgstr "Melden Sie sich an"
+
+msgid "Register"
+msgstr "Registrieren"
+
+msgid "Impressum"
+msgstr "Impressum"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+# Admin
+msgid "Overview"
+msgstr "Überblick"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Pages"
+msgstr "Seiten"
+
+msgid "News"
+msgstr "Nachrichten"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Log out"
+msgstr "Log out"
+
+msgid "Vendors"
+msgstr "Anbieter"
+
+msgid "Applicants"
+msgstr "Bewerber"
+
+msgid "Potential"
+msgstr "Potential"
+
+msgid "Rejected"
+msgstr "abgelehnt"
+
+msgid "Accepted"
+msgstr "akzeptiert"
+
+msgid "Projects"
+msgstr "Projekte"
+
+msgid "Invoices"
+msgstr "Rechnungen"
+
+msgid "Offers"
+msgstr "Bietet An"
+
+msgid "Test Translations"
+msgstr "Test-Übersetzungen"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Application"
+msgstr "Anwendung"
+
+msgid "Applications"
+msgstr "Anwendungen"
+
+msgid "Collapse Menu"
+msgstr "Schließen Menü"
+
+msgid "Expand Menu"
+msgstr "Erweitern Menu"
+
+# ##########################################################
+# Label
+# ##########################################################
+msgid "Sign up"
+msgstr "Anmeldung"
+
+msgid "Sign in"
+msgstr "anmelden"
+
+msgid "Resend"
+msgstr "Erneut senden"
+
+msgid "Submit"
+msgstr "einreichen"
+
+msgid "Cancel"
+msgstr "Rückgängig Machen"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Edit"
+msgstr "bearbeiten"
+
+msgid "Create"
+msgstr "schaffen"
+
+msgid "Delete"
+msgstr "löschen"
+
+msgid "Remove"
+msgstr "entfernen"
+
+msgid "Continue"
+msgstr "fortsetzen"
+
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+msgid "Close"
+msgstr "Zu Schließen"
+
+msgid "Saving"
+msgstr "Speichern"
+
+msgid "Upload File"
+msgstr "Datei Hochladen"
+
+msgid "Files"
+msgstr "Dateien"
+
+msgid "No attached files"
+msgstr "Keine Dateianhänge"
+
+msgid "Publish Date"
+msgstr "Veröffentlichungsdatum"
+
+msgid "Modified Date"
+msgstr "Änderungsdatum"
+
+msgid "Search Keyword"
+msgstr "Suchwörter"
+
+msgid "Created By"
+msgstr "Erstellt Von"
+
+msgid "Select Status"
+msgstr "Wählen Sie Status"
+
+msgid "Public"
+msgstr "Öffentlichkeit"
+
+msgid "Private"
+msgstr "privat"
+
+msgid "Published"
+msgstr "Veröffentlicht"
+
+msgid "No Published"
+msgstr "Kein Veröffentlicht"
+
+msgid "Added"
+msgstr "Fügte Hinzu"
+
+msgid "Last Updated"
+msgstr "Letzte Aktualisierung"
+
+msgid "Available Downloads"
+msgstr "Verfügbare Downloads"
+
+msgid "You are here"
+msgstr "Sie befinden sich hier"
+
+msgid "From"
+msgstr "von"
+
+msgid "To"
+msgstr "bis Zur"
+
+msgid "Invalid Request"
+msgstr "Ungültige Anfrage"
+
+msgid "Cannot process the request."
+msgstr "Kann die Anforderung nicht verarbeiten."
+
+# #########################################################
+# Messages
+# #########################################################
+msgid "Welcome back %s"
+msgstr "Willkommen zurück % s"
+
+msgid "Oops! Something wrong."
+msgstr "Oops! Stimmt etwas nicht."
+
+msgid "Oop! Something wrong. Please correct the highlighted fields."
+msgstr "Oop! Stimmt etwas nicht. Bitte korrigieren Sie die markierten Felder."
+
+msgid "Error encountered. Please try again."
+msgstr "Fehler aufgetreten. Bitte versuchen Sie es erneut."
+
+msgid "We're sorry. We can't accept your request."
+msgstr "Es tut uns leid. Wir können Ihren Antrag ab."
+
+msgid "No results found."
+msgstr "Keine Ergebnisse gefunden."
+
+msgid ""
+"Sorry! The request is unavailable. That's what we all know.s tut uns leid! "
+"Der Antrag ist nicht verfügbar. Das ist, was wir alle wissen."
+msgstr ""
+"Es tut uns leid! Der Antrag ist nicht verfügbar. Das ist, was wir alle "
+"wissen."
+
+msgid ""
+"An error was encountered when processing your request. Please try again "
+"later."
+msgstr ""
+"Es wurde ein Fehler bei der Bearbeitung Ihrer Anfrage aufgetreten. Bitte "
+"versuchen Sie es später noch einmal."
+
+msgid "An error was encountered. Please check the form and try again."
+msgstr ""
+"Ist ein Fehler aufgetreten. Überprüfen Sie bitte das Formular aus und "
+"versuchen Sie es erneut."
+
+msgid "Some errors were encountered. Please check the form and try again."
+msgstr ""
+"Einige Fehler aufgetreten. Überprüfen Sie bitte das Formular aus und "
+"versuchen Sie es erneut."

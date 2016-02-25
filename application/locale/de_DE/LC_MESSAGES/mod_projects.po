@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beo\n"
+"POT-Creation-Date: 2014-09-16 20:11+0630\n"
+"PO-Revision-Date: 2015-04-07 19:24+0630\n"
+"Last-Translator: \n"
+"Language-Team: Ko Ko Zin <kozin@mvhnetworks.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: de_DE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2;plural=n==1 ? 0 : 1;\n"
+
+# ###################################################
+# Projects Module
+# ###################################################
+# ## General ##
+msgid "Projects"
+msgstr "Bietet An"
+
+# application/modules/projects/config/config.php ( Line: 13 )
+msgid "Translation"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 14 )
+msgid "DTP"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 15 )
+msgid "Review"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 18 )
+msgid "Translatable"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 19 )
+msgid "Reference"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 20 )
+msgid "Contract"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 31 )
+msgid "Job Waiting"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 32 )
+msgid "Job Running"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 33 )
+msgid "Job Uploaded"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 34 )
+msgid "Job QA waiting"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 35 )
+msgid "Job Finish"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 38 )
+msgid "General review"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 39 )
+msgid "Detailed review"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 40 )
+msgid "SNC-Log"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 41 )
+msgid "Customer report"
+msgstr ""
+
+# application/modules/projects/config/config.php ( Line: 42 )
+msgid "Compare"
+msgstr ""
+
+# application/modules/projects/controllers/projects.php ( Line: 455 )
+msgid "Send Feedback"
+msgstr ""
+
+msgid "View All Projects"
+msgstr "View All Projects"
+
+msgid "Tasks"
+msgstr "Tasks"
+
+msgid "Accept All Tasks"
+msgstr "Accept All Tasks"
+
+msgid "Accept Task"
+msgstr "Accept Task"
+
+msgid "In Progress"
+msgstr "In Progress"
+
+msgid "Task Completed"
+msgstr "Task Completed"
+
+msgid "Task Name"
+msgstr "Task Name"
+
+msgid "Order Number"
+msgstr "Order Number"
+
+msgid "File"
+msgstr "File"
+
+msgid "Files"
+msgstr "Files"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Type"
+mgstr "Type"
+
+msgid "Draft"
+msgstr "Draft"
+
+msgid "Final"
+msgstr "Final"
+
+msgid "Upload File"
+msgstr "Upload File"
+
+msgid "Select Your File"
+msgstr "Select Your File"
+
+msgid "Comment"
+msgstr "Comment"
+
+msgid "Uploading file"
+msgstr "Uploading file"
+
+msgid "Reject All Tasks"
+msgstr "Reject All Tasks"
+
+msgid "Reject Task"
+msgstr "Reject Task"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Project Status"
+msgstr "Project Status"
+
+msgid "Source Language"
+msgstr "Source Language"
+
+msgid "Target Language"
+msgstr "Target Language"
+
+msgid "Order Date"
+msgstr "Order Date"
+
+msgid "Deliver Date"
+msgstr "Deliver Date"
+
+msgid "Project Name"
+msgstr "Project Name"
+
+msgid "Project name"
+msgstr "Project name"
+
+msgid "Project Number"
+msgstr "Project Number"
+
+msgid "Project number"
+msgstr "Project number"
+
+msgid "Task Types"
+msgstr "Task Types"
+
+msgid "Total Tasks"
+msgstr "Total Tasks"
+
+msgid "Subjects"
+msgstr "Subjects"
+
+msgid "Project Manager"
+msgstr "Project Manager"
+
+msgid "QA"
+msgstr "QA"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Project Details"
+msgstr "Project Details"
+
+msgid "Open Job Title"
+msgstr "Open Job Title"
+
+msgid "Accept Project"
+msgstr "Accept Project"
+
+msgid "Decline Project"
+msgstr "Decline Project"
+
+msgid "Receive Project Files"
+msgstr "Receive Project Files"
+
+msgid "Number of tasks:"
+msgstr "Number of tasks:"
+
+msgid "Total files for all tasks:"
+msgstr "Total files for all tasks:"
+
+msgid "Task(s) Accepted:"
+msgstr "Task(s) Accepted:"
+
+msgid "Prices:"
+msgstr "Prices:"
+
+msgid "Task Type(s):"
+msgstr "Task Type(s):"
+
+msgid "Subject(s):"
+msgstr "Subject(s):"
+
+msgid "Translation Tool(s):"
+msgstr "Translation Tool(s):"
+
+msgid "Task Actions"
+msgstr "Task Actions"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Notes"
+msgstr "Notes"
+
+msgid "Order Items"
+msgstr "Order Items"
+
+msgid "Open Task Title"
+msgstr "Open Task Title"
+
+msgid "Accept Task"
+msgstr "Accept Task"
+
+msgid "Reject Task"
+msgstr "Reject Task"
+
+msgid "Receive Task Files"
+msgstr "Receive Task Files"
+
+msgid "Deliver Task Files"
+msgstr "Deliver Task Files"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "Production Start:"
+msgstr "Production Start:"
+
+msgid "Delivery Date:"
+msgstr "Delivery Date:"
+
+msgid "Volume:"
+msgstr "Volume:"
+
+msgid "Original File Type:"
+msgstr "Original File Type:"
+
+msgid "Expected File Type:"
+msgstr "Expected File Type:"
+
+msgid "Deliver File Through:"
+msgstr "Deliver File Through:"
+
+msgid "Terminology:"
+msgstr "Terminology:"
+
+msgid "Style Guide:"
+msgstr "Style Guide:"
+
+msgid "Reference Material:"
+msgstr "Reference Material:"
+
+msgid "Client's Feedback"
+msgstr "Client's Feedback"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Accepted"
+msgstr "Accepted"
+
+msgid "Pending"
+msgstr "Pending"
+
+msgid "Completed"
+msgstr "Completed"
+
+msgid "Closed"
+msgstr "Closed"
+
+msgid "No contract file"
+msgstr "No contract file"
+
+msgid "No contract file includes in this task."
+msgstr "No contract file includes in this task."
+
+msgid "This project doesn't include any file."
+msgstr "This project doesn't include any file."
+
+msgid "This task doesn't include any file."
+msgstr "This task doesn't include any file."
+
+# application/modules/projects/views/ajax/project_qa_files.php ( Line: 68 )
+msgid "This project doesn't include QA report."
+msgstr "This project doesn't include QA report."
+
+msgid "This task doesn't include QA report."
+msgstr "This task doesn't include QA report."
+
+# ## Messages ##
+
+msgid "Write your feedback about this task to send to project manager."
+msgstr "Write your feedback about this task to send to project manager."
+
+# application/modules/projects/config/io_messages.php ( Line: 20 )
+msgid "Your request has been sent successflly. We'll come back to you soon."
+msgstr ""
+
+# application/modules/projects/config/io_messages.php ( Line: 21 )
+msgid "An error was encountered when processing your request. Please try again later."
+msgstr ""
+
+# application/modules/projects/config/io_messages.php ( Line: 22 )
+msgid "You don't have permission to do this request."
+msgstr ""
+
+# application/modules/projects/config/io_messages.php ( Line: 23 )
+msgid "Your note has been saved."
+msgstr ""
+
+# application/modules/projects/config/io_messages.php ( Line: 24 )
+msgid "Your note has not saved."
+msgstr ""
+
+# application/modules/projects/config/io_messages.php ( Line: 25 )
+msgid "Your note has been deleted."
+msgstr ""
+
+# application/modules/projects/config/io_messages.php ( Line: 26 )
+msgid "Your note hasn't deleted."
+msgstr ""
+
+# application/modules/projects/config/io_messages.php ( Line: 27 )
+msgid "Error uploading %s."
+msgstr "Error uploading %s."
+
+# application/modules/projects/config/io_messages.php ( Line: 28 )
+msgid "The file <strong>%s</strong> has been uploaded."
+msgstr "The file <strong>%s</strong> has been uploaded."
+
+# application/modules/projects/config/io_messages.php ( Line: 33 )
+msgid "<i class=\"fa fa-plus-square blue\"></i> %s accepted an offer (<a href=\"%s\">%s</a>)."
+msgstr "<i class=\"fa fa-plus-square blue\"></i> %s accepted an offer (<a href=\"%s\">%s</a>)."
+
+# application/modules/projects/config/io_messages.php ( Line: 37 )
+msgid "<i class=\"fa fa-ban red\"></i> %s rejected an offer (<a href=\"%s\">%s</a>)."
+msgstr "<i class=\"fa fa-ban red\"></i> %s rejected an offer (<a href=\"%s\">%s</a>)."
+
+# application/modules/projects/config/io_messages.php ( Line: 47 )
+msgid "<i class=\"fa fa-plus-square blue\"></i> <a href=\"%s\">%s</a> added a <a href=\"%s\">note</a>."
+msgstr "<i class=\"fa fa-plus-square blue\"></i> <a href=\"%s\">%s</a> added a <a href=\"%s\">note</a>."
+
+# application/modules/projects/config/io_messages.php ( Line: 51 )
+msgid "<i class=\"fa fa-trash red\"></i> <a href=\"%s\">%s</a> removed a note."
+msgstr "<i class=\"fa fa-trash red\"></i> <a href=\"%s\">%s</a> removed a note."
+
+# application/modules/projects/config/io_messages.php ( Line: 55 )
+msgid "<i class=\"fa fa-edit\"></i> <a href=\"%s\">%s</a> edited a <a href=\"%s\">note</a>."
+msgstr "<i class=\"fa fa-edit\"></i> <a href=\"%s\">%s</a> edited a <a href=\"%s\">note</a>."
+
+# application/modules/projects/config/io_messages.php ( Line: 59 )
+msgid "<i class=\"fa fa-send\"></i> <a href=\"%s\">%s</a> sent feedback for <a href=\"%s\">%s</a>."
+msgstr "<i class=\"fa fa-send\"></i> <a href=\"%s\">%s</a> sent feedback for <a href=\"%s\">%s</a>."

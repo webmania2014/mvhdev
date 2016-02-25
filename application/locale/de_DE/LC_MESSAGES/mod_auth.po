@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beo\n"
+"POT-Creation-Date: 2014-09-16 20:11+0630\n"
+"PO-Revision-Date: 2015-04-06 16:58+0630\n"
+"Last-Translator: \n"
+"Language-Team: Ko Ko Zin <kozin@mvhnetworks.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: de_DE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2;plural=n==1 ? 0 : 1;\n"
+
+# ###################################################
+# Auth Module
+# ###################################################
+# ## General ###
+# application/modules/auth/views/activation.php ( Line: 20 )
+msgid "Activate Your Account"
+msgstr "Aktivieren Sie Ihr Konto"
+
+# application/modules/auth/views/activation.php ( Line: 22 )
+msgid "User with email &lt;%s&gt; doesn't exist in system."
+msgstr "Benutzer mit E-Mail &lt;%s&gt; nicht im System vorhanden sind."
+
+# application/modules/auth/views/activation.php ( Line: 23 )
+msgid "If you've not an account. Please <a href=\"%s\">sign up</a>."
+msgstr "Wenn Sie nicht ein Konto haben. Bitte <a href=\"%s\">anmelden</a>."
+
+# application/modules/auth/views/activation_failed.php ( Line: 17 )
+msgid "Account activation was not completed."
+msgstr "Kontoaktivierung wurde nicht abgeschlossen."
+
+# application/modules/auth/views/activation_failed.php ( Line: 22 )
+msgid "Activation code is not valid or expired."
+msgstr "Der Aktivierungscode ist nicht gültig oder abgelaufen."
+
+# application/modules/auth/views/activation_failed.php ( Line: 23 )
+msgid "Please enter your email to resend activation request."
+msgstr "Bitte geben Sie Ihre E-Mail an Aktivierungsanfrage zu senden."
+
+# application/modules/auth/views/activation_failed.php ( Line: 47 )
+msgid "Already have an account ?"
+msgstr "Hast du schon ein Konto?"
+
+# application/modules/auth/views/activation_success.php ( Line: 18 )
+msgid "Account activated"
+msgstr "Konto aktiviert"
+
+# application/modules/auth/views/forbidden_reset_password.php ( Line: 16 )
+msgid "Please go back to <a href=\"%s\">home page</a>."
+msgstr "Bitte gehen Sie zurück zu <a href=\"%s\">Startseite</a>."
+
+# application/modules/auth/views/forgot_password.php ( Line: 20 )
+msgid "Request New Password"
+msgstr "Neues Passwort anfordern"
+
+# application/modules/auth/views/forgot_password.php ( Line: 24 )
+msgid "Please enter your email address and follow the instructions."
+msgstr "Bitte geben Sie Ihre E-Mail-Adresse und folgen Sie den Anweisungen."
+
+# application/modules/auth/views/forgot_username.php ( Line: 19 )
+msgid "Forgot Username?"
+msgstr "Benutzername vergessen?"
+
+# application/modules/auth/views/login.php ( Line: 68 )
+msgid "Latest News"
+msgstr "Neueste Nachrichten"
+
+# application/modules/auth/views/reset_password.php ( Line: 15 )
+msgid "Reset Your Password"
+msgstr "Setze Dein Passwort Zurück"
+
+# application/modules/auth/views/reset_password.php ( Line: 16 )
+msgid "To verify your password, please enter it once in each field below."
+msgstr ""
+"Um Ihr Passwort zu verifizieren, geben Sie es bitte einmal in jedem Feld "
+"unten."
+
+# application/modules/auth/views/reset_password.php ( Line: 17 )
+msgid ""
+"Passwords are case-sensitive and must be at least 8 characters long. A good "
+"password should contain a mix of capital and lower-case letters, numbers and "
+"symbols."
+msgstr ""
+"Kennwörter sind Groß- und Kleinschreibung und muss mindestens 8 Zeichen lang "
+"sein. Ein gutes Passwort sollte eine Mischung aus Groß- und "
+"Kleinbuchstaben , Zahlen und Symbole enthalten."
+
+# application/modules/auth/views/reset_password.php ( Line: 34 )
+msgid "Enter new password"
+msgstr "Neues Passwort eingeben"
+
+# application/modules/auth/views/reset_password.php ( Line: 39 )
+msgid "Re-enter new password"
+msgstr "Re-enter new password"
+
+# application/modules/auth/views/reset_password_sent.php ( Line: 16 )
+msgid "Email wasn't sent."
+msgstr "E-Mail wurde nicht gesendet."
+
+# application/modules/auth/views/reset_password_sent.php ( Line: 17 )
+msgid ""
+"We're sorry. Email wasn't sent to your email due to our email service is "
+"down or busy."
+msgstr ""
+"Es tut uns leid. E-Mail nicht Ihre E-Mail durch unsere E-Mail-Dienst "
+"gesendet wird, nach unten oder besetzt ist."
+
+# application/modules/auth/views/reset_password_sent.php ( Line: 18 )
+msgid "Sorry for any incovenience causes."
+msgstr "Sorry für die Unannehmlichkeiten verursacht."
+
+# application/modules/auth/views/reset_password_sent.php ( Line: 22 )
+msgid "Please check your email"
+msgstr "Bitte überprüfen Sie Ihre E-Mail-"
+
+# application/modules/auth/views/reset_password_sent.php ( Line: 23 )
+msgid "We've sent you email that will allow you to reset your password."
+msgstr ""
+"Wir haben Ihnen per E-Mail, mit dem Sie Ihr Passwort zurücksetzen gesendet."
+
+# application/modules/auth/views/reset_password_sent.php ( Line: 30 )
+msgid "Check your email now"
+msgstr "Überprüfen Sie Ihre E-Mail jetzt"
+
+# application/modules/auth/views/username_sent.php ( Line: 25 )
+msgid "We've sent you email attached your username in it."
+msgstr "Wir haben Ihnen angebracht Ihren Benutzername E-Mail in das gesendet."
+
+# ## Login ##
+# application/modules/auth/controllers/auth.php ( Line: 164 )
+msgid "Log in"
+msgstr "Melden Sie sich an"
+
+# application/modules/auth/controllers/auth.php ( Line: 431 )
+msgid "Forgot Password"
+msgstr "Passwort Vergessen"
+
+# application/modules/auth/controllers/auth.php ( Line: 499 )
+msgid "Forgot Username"
+msgstr "Benutzername vergessen"
+
+# application/modules/auth/controllers/auth.php ( Line: 515 )
+msgid "Username sent"
+msgstr "Benutzername geschickt"
+
+# application/modules/auth/controllers/auth.php ( Line: 529 )
+msgid "Reset password instructions sent"
+msgstr "Passwort zurücksetzen Anweisungen geschickt"
+
+# application/modules/auth/controllers/auth.php ( Line: 555 )
+msgid "Access Not Allow"
+msgstr "Zugriff nicht zulassen"
+
+# application/modules/auth/controllers/auth.php ( Line: 646 )
+msgid "Reset Password"
+msgstr "Passwort Zurücksetzen"
+
+# application/modules/auth/controllers/auth.php ( Line: 744 )
+msgid "Activation Failed"
+msgstr "Aktivierung fehlgeschlagen"
+
+# application/modules/auth/views/
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Forgot <a href=\"%s\">Username</a> or <a href=\"%s\">Password</a>?"
+msgstr ""
+"Passwort <a href=\"%s\">Benutzername</a> oder <a href=\"%s\">Passwort</a>?"
+
+msgid "Remember me"
+msgstr "Erinnere dich an mich"
+
+msgid "You don't have an beo account? <a href=\"%s\">Register here!</a>"
+msgstr ""
+"Sie verfügen nicht über ein beo Account? <a href=\"%s\">Registrieren Sie "
+"sich hier!</a>"
+
+# ## Register ##
+# application/modules/auth/controllers/auth.php ( Line: 348 )
+msgid "Registration"
+msgstr "Anmeldung"
+
+# application/modules/auth/views/register.php ( Line: 20 )
+msgid "Register"
+msgstr "Registrieren"
+
+# application/modules/auth/views/register.php ( Line: 24 )
+msgid ""
+"Required fields are marked with asterisk (<i class=\"asterisk-required\">*</"
+"i>). Please provide correct information for specific field."
+msgstr ""
+"Pflichtfelder sind mit Stern gekennzeichnet (<i class=\"Stern-erforderlich"
+"\">*</ i>). Stellen Sie bitte korrekte Informationen für bestimmte Feld."
+
+# application/modules/auth/views/register.php ( Line: 35 )
+msgid "Register as"
+msgstr "so Registrieren"
+
+# application/modules/auth/views/register.php ( Line: 24 )
+msgid "Select applicant Type"
+msgstr "Select Applicant Type"
+
+# application/modules/auth/views/register.php ( Line: 42 )
+msgid "Company"
+msgstr "Unternehmen"
+
+# application/modules/auth/views/register.php ( Line: 64 )
+msgid "First Name"
+msgstr "Vorname"
+
+# application/modules/auth/views/register.php ( Line: 69 )
+msgid "Last Name"
+msgstr "Nachname"
+
+# application/modules/auth/views/register.php ( Line: 76 )
+msgid "Address"
+msgstr "Die Anschrift"
+
+# application/modules/auth/views/register.php ( Line: 82 )
+msgid "Postal Code"
+msgstr "Postleitzahl"
+
+# application/modules/auth/views/register.php ( Line: 89 )
+msgid "City"
+msgstr "City"
+
+# application/modules/auth/views/register.php ( Line: 96 )
+msgid "Select Country"
+msgstr "Land Auswählen"
+
+# application/modules/auth/views/register.php ( Line: 95 )
+msgid "Country"
+msgstr "Land"
+
+# application/modules/auth/views/register.php ( Line: 102 )
+msgid "Telephone"
+msgstr "Telefon"
+
+# application/modules/auth/views/register.php ( Line: 108 )
+msgid "Email"
+msgstr "E-Mail"
+
+# application/modules/auth/views/register.php ( Line: 128 )
+msgid "Re-enter Password"
+msgstr "Passwort erneut eingeben"
+
+# application/modules/auth/views/register.php ( Line: 115, 122 )
+msgid "Must be at least 8 characters in length."
+msgstr "Muss mindestens 8 Zeichen lang sein."
+
+# application/modules/auth/views/register.php ( Line: 135 )
+msgid "Please answer the question"
+msgstr "Bitte beantworten Sie die Frage"
+
+# application/modules/auth/views/register.php ( Line: 135 )
+msgid "Prove that you're not a bot"
+msgstr "Zeigen Sie, dass Sie nicht ein Bot"
+
+# application/modules/auth/views/register.php ( Line: 147 )
+msgid ""
+"I have read and agree to the <a href=\"%s\">Terms &amp; Conditions</a> and "
+"<a href=\"%s\">Privacy Policy</a>."
+msgstr ""
+"Ich habe gelesen und akzeptiere die <a href=\"%s\">AGB</a> und der <a href="
+"\"%s\">Datenschutz</a>."
+
+# ## Messages ###
+# application/modules/auth/controllers/auth.php ( Line: 92 )
+msgid "Username or password does not match."
+msgstr "Benutzername oder Passwort stimmt nicht überein."
+
+# application/modules/auth/controllers/auth.php ( Line: 96 )
+msgid "This username does not belong to any account."
+msgstr "Der Nutzer konnte nicht auf jedes Konto gehören."
+
+# application/modules/auth/controllers/auth.php ( Line: 194 )
+msgid "You are logged out."
+msgstr "Sie sind ausgeloggt."
+
+# application/modules/auth/controllers/auth.php ( Line: 227 )
+msgid "Registration Complete"
+msgstr "Registrierung abschließen"
+
+# application/modules/auth/controllers/auth.php ( Line: 336 )
+msgid "You've been registered successfully."
+msgstr "Sie haben sich erfolgreich registriert."
+
+# application/modules/auth/controllers/auth.php ( Line: 337 )
+msgid "Please check your email to activate your account."
+msgstr "Bitte überprüfen Sie Ihre E-Mail an Ihr Konto zu aktivieren."
+
+# application/modules/auth/controllers/auth.php ( Line: 423 )
+msgid "Email <%s> does not belong to any account."
+msgstr "Email <%s> gilt nicht für Rechnung gehören."
+
+# application/modules/auth/controllers/auth.php ( Line: 731 )
+msgid "Email doesn't belong to any account."
+msgstr "E-Mail nicht zu einer Rechnung gehören."
+
+# application/modules/auth/controllers/auth.php ( Line: 492 )
+msgid "Email <%s> does not exist."
+msgstr "Email <%s> existiert nicht."
+
+# application/modules/auth/controllers/auth.php ( Line: 756 )
+msgid "Activation was succesful, you can now log in to your account."
+msgstr ""
+"Aktivierung erfolgreich war, können Sie sich hier anmelden, um Ihr Konto."
+
+# application/modules/auth/views/register_success.php ( Line: 17 )
+msgid "Thank you. You've successfully registered."
+msgstr "Danke. Sie haben sich erfolgreich registriert."

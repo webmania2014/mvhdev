@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beo\n"
+"POT-Creation-Date: 2014-09-16 20:11+0630\n"
+"PO-Revision-Date: 2015-04-07 18:46+0630\n"
+"Last-Translator: \n"
+"Language-Team: Ko Ko Zin <kozin@mvhnetworks.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: de_DE\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2;plural=n==1 ? 0 : 1;\n"
+
+# ###################################################
+# Invoices Module
+# ###################################################
+# ## General ##
+# application/modules/invoices/controllers/ajax.php ( Line: 106 )
+msgid "Invoice Rejected"
+msgstr "Rechnungs Abgelehnt"
+
+# application/modules/invoices/controllers/invoices.php ( Line: 144 )
+msgid "Invoices"
+msgstr "Rechnungen"
+
+# application/modules/invoices/controllers/invoices.php ( Line: 204 )
+msgid "Invoice details"
+msgstr "Rechnungsdetails"
+
+# application/modules/invoices/views/404.php ( Line: 30 )
+msgid "View Invoices"
+msgstr "Ansicht Rechnungen"
+
+# application/modules/invoices/views/comment.php ( Line: 33 )
+msgid "Reject Invoice"
+msgstr "Ablehnen Rechnung"
+
+# application/modules/invoices/views/invoice_pdf.php ( Line: 50 )
+msgid "Invoice Number"
+msgstr "Rechnung Nr"
+
+# application/modules/invoices/views/supplier/invoice_items.php ( Line: 51 )
+msgid "Your Invoice Number"
+msgstr "Ihre Rechnungsnummer"
+
+# application/modules/invoices/views/supplier/invoice_items.php ( Line: 53 )
+msgid "Download PDF"
+msgstr "PDF herunterladen"
+
+# application/modules/invoices/views/supplier/invoice_items.php ( Line: 69 )
+msgid "Accept"
+msgstr "Nehme An"
+
+# application/modules/invoices/views/supplier/invoice_items.php ( Line: 70 )
+msgid "Reject"
+msgstr "ablehnen"
+
+# application/modules/invoices/views/supplier/overview_invoices.php ( Line: 45 )
+msgid "Settle"
+msgstr "regeln"
+
+# application/modules/invoices/views/supplier/overview_invoices.php ( Line: 46 )
+msgid "Open"
+msgstr "Öffnen Sie"
+
+# application/modules/invoices/views/supplier/overview_invoices.php ( Line: 91 )
+msgid "Beo Invoice Number"
+msgstr "Beo Rechnungsnummer"
+
+# application/modules/invoices/views/supplier/overview_invoices.php ( Line: 113 )
+msgid "Billing Month"
+msgstr "Billing Monat"
+
+# application/modules/invoices/views/supplier/overview_invoices.php ( Line: 134 )
+msgid "Settlement Date"
+msgstr "Abwicklungstag"
+
+# application/modules/invoices/views/supplier/overview_invoices.php ( Line: 154 )
+msgid "No invoices found."
+msgstr "Keine Rechnungen gefunden"
+
+# application/modules/invoices/views/widget/outstanding_invoices.php ( Line: 37 )
+msgid "You've no outstanding invoices."
+msgstr "Sie haben keine offenen Rechnungen."
+
+msgid "Project Number"
+msgstr "Projektnummer"
+
+msgid "Task Type"
+msgstr "Aufgabentyp"
+
+msgid "Language Combination"
+msgstr "Sprachenkombination"
+
+msgid "Delivery Date"
+msgstr "Liefertermin"
+
+msgid "Price"
+msgstr "Preis"
+
+msgid "Quantity"
+msgstr "Menge"
+
+msgid "Amount"
+msgstr "Höhe"
+
+msgid "Net amount"
+msgstr "Nettobetrag"
+
+msgid "Sale tax"
+msgstr "Verkaufssteuer"
+
+msgid "Total"
+msgstr "gesamt"
+
+msgid "Decline"
+msgstr "Rückgang"
+
+# ## Widgets ##
+msgid "Outstanding Invoices"
+msgstr "Demnächst mit Aufgabenmodul"
+
+msgid "See all invoices"
+msgstr "Alle Rechnungen"
+
+# ## Messages ##
+# application/modules/invoices/config/io_messages.php ( Line: 20 )
+msgid "Your request has been sent successflly. We'll come back to you soon."
+msgstr ""
+"Ihre Anfrage wurde successflly versendet. Wir melden uns bei Ihnen bald "
+"kommen."
+
+# application/modules/invoices/config/io_messages.php ( Line: 21 )
+msgid ""
+"An error was encountered when processing your request. Please try again "
+"later."
+msgstr ""
+"Es wurde ein Fehler bei der Bearbeitung Ihrer Anfrage aufgetreten. Bitte "
+"versuchen Sie es später noch einmal."
+
+# application/modules/invoices/config/io_messages.php ( Line: 22 )
+msgid "You don't have permission to do this request."
+msgstr "Sie haben keine Berechtigung, um diese Anforderung zu tun."
+
+# application/modules/invoices/config/io_messages.php ( Line: 34 )
+msgid ""
+"<i class=\"fa fa-plus-square blue\"></i> %s accepted an invoice (<a href=\"%s"
+"\">%s</a>)."
+msgstr ""
+"<i class=\"fa fa-plus-squre blue\"></i> %s akzeptiert eine Rechnung (<a href="
+"\"%s\">%s</a>)."
+
+# application/modules/invoices/config/io_messages.php ( Line: 38 )
+msgid ""
+"<i class=\"fa fa-ban red\"></i> %s rejected an invoice (<a href=\"%s\">%s</"
+"a>)."
+msgstr ""
+"<i class=\"fa fa-ban red\"></i> %s lehnte eine Rechnung (<a href=\"%s\">%s</"
+"a>)."

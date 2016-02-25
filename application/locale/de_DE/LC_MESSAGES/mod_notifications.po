@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beo\n"
+"POT-Creation-Date: 2014-09-16 20:11+0630\n"
+"PO-Revision-Date: 2015-04-07 19:24+0630\n"
+"Last-Translator: \n"
+"Language-Team: Ko Ko Zin <kozin@mvhnetworks.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: de_DE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2;plural=n==1 ? 0 : 1;\n"
+
+# ###################################################
+# Notifications Module
+# ###################################################
+# ## General ##
+msgid "Notifications"
+msgstr "Benachrichtigungen"
+
+# application/modules/notifications/views/overview.php ( Line: 60 )
+msgid "You've no notifications."
+msgstr "Sie haben keine Benachrichtigungen."
+
+# ## Widget ##
+msgid "See all notifications"
+msgstr "Alle Meldungen"
+
+# ## Messages ##
+# application/modules/notifications/config/io_messages.php ( Line: 20 )
+msgid "Please complete your <a href=\"%s\">application form</a> in 30 days."
+msgstr "Bitte tragen Sie Ihre <a href=\"%s\">Antragsformular</a> in 30 Tagen."
+
+# application/modules/notifications/config/io_messages.php ( Line: 22 )
+msgid "New user <a href=\"%s\">%s</a> has signed up."
+msgstr "Neuer Benutzer <a href=\"%s\">%s</a> hat sich registriert."
+
+# application/modules/notifications/config/io_messages.php ( Line: 23 )
+msgid "You're accepted by admin."
+msgstr "Sie sind von admin akzeptiert."
+
+# application/modules/notifications/config/io_messages.php ( Line: 24)
+msgid ""
+"You're rejected by admin. Please update your <a href=\"%s\">application "
+"form</a> and send again."
+msgstr ""
+"Sie sind von admin abgelehnt. Bitte aktualisieren Sie Ihre <a href=\"%s"
+"\">Antragsformular</a> und erneut zu senden."
+
+# application/modules/notifications/config/io_messages.php ( Line: 25 )
+msgid "You're now turned into potential supplier."
+msgstr "Sie sind nun in potentiellen Lieferanten geworden."
+
+# application/modules/notifications/config/io_messages.php ( Line: 26 )
+msgid "<a href=\"%s\">%s</a> sent application form."
+msgstr "<a href=\"%s\">%s</a> gesendet Bewerbungsformular."

@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="596c47e2-eb57-43ca-8ef1-54a46084b00a" name="Default" comment="">
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\config\io_messages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\controllers\ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\controllers\applications.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\controllers\search.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\helpers\utilities_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\libraries\applications_uac.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\libraries\applications_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\models\applications_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\views\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\views\ajax\application_details.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\views\create.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\views\delete.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\views\edit.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\views\overview_applications.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\applications\views\search_results.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\config\io_messages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\admin\admin.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\admin\ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\admin\contact.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\admin\help.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\admin\home.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\admin\news.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\admin\pages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\content.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\content_widget.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\pages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\supplier\contact.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\supplier\help.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\supplier\news.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\controllers\supplier\supplier.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\helpers\content_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\libraries\contact_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\libraries\content_uac.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\libraries\content_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\libraries\help_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\libraries\home_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\libraries\news_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\libraries\pages_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\models\contacts_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\models\help_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\models\news_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\models\pages_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\403.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\ajax\delete_contact.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\ajax\edit_contact.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\ajax\modal.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\ajax\overview_contacts.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\contact.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\contact\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\contact\contact_default_item.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\contact\contact_item.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\contact\contact_modal_form.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\contact\overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\default.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\help\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\help\create.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\help\delete.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\help\edit.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\help\index.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\help\overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\help\search.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\news\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\news\create.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\news\delete.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\news\edit.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\news\index.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\news\overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\news\search.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\pages\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\pages\create.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\pages\delete.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\pages\edit.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\pages\home.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\pages\index.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\admin\pages\overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\emails\admin_contact_form.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\portal\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\portal\contact.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\portal\contact_item.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\portal\details.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\portal\help.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\portal\home.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\portal\index.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\portal\news.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\portal\page.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\supplier\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\supplier\contact.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\supplier\help\details.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\supplier\help\help_list.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\supplier\news\details.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\supplier\news\news_list.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\widget\news_widget.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\widget\portal_home_page_content.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\widget\portal_home_page_footer.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\widget\portal_recent_news.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\widget\supplier_random_helps_sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\widget\supplier_random_news_sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\widget\supplier_recent_helps_sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\content\views\widget\supplier_recent_news_sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\files\controllers\files.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\helloworld\controllers\helloworld.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\helloworld\libraries\helloworld_uac.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\helloworld\views\goodbye.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\helloworld\views\greet.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\helloworld\views\helloworld.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\config\config.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\config\io_messages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\controllers\ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\controllers\invoices.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\controllers\invoices_widget.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\libraries\invoice_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\libraries\invoices_uac.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\models\invoices_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\views\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\views\comment.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\views\email\email.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\views\invoice_pdf.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\views\supplier\invoice_detail.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\views\supplier\invoice_items.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\views\supplier\overview_invoices.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\views\widget\detail.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\views\widget\invoices_list.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\invoices\views\widget\outstanding_invoices.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\config\io_messages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\controllers\ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\controllers\notes.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\controllers\notes_widget.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\libraries\notes_uac.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\libraries\notes_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\models\notes_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\note_item.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\ajax\delete_supplier_note.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\ajax\delete_task_note.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\ajax\delete_translation_note.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\ajax\edit_supplier_note.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\ajax\edit_task_note.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\ajax\edit_translation_note.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\ajax\note_item.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\ajax\offer_note_item.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\ajax\task_note_item.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\ajax\translation_note_item.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\note_item.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\offer_note_items.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\task_note_items.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\translation_note_items.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\widget\offer_notes.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\widget\recent_notes.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\widget\supplier_notes.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\widget\task_notes.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notes\views\widget\translation_notes.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\config\io_messages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\controllers\ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\controllers\notifications.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\controllers\notifications_widget.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\helpers\utilities_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\models\notifications_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\views\emails\accept_supplier.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\views\emails\forgot_password.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\views\emails\forgot_username.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\views\emails\notify_application_form_complete.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\views\emails\notify_registration_complete.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\views\emails\potential_supplier.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\views\emails\reject_supplier.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\views\emails\task_feedback.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\views\overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\views\widget\notifications.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\notifications\views\widget\recent_notifications.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\config\config.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\config\email_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\config\io_messages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\config\ui_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\controllers\ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\helpers\email_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\helpers\utilities_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\libraries\offers_uac.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\libraries\offers_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\models\offers_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\views\403.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\views\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\views\ajax\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\views\ajax\PDF_task.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\views\ajax\offer_list_files.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\views\search.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\views\send_feedback.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\views\supplier\offer_details.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\views\supplier\offers_list.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\offers\views\supplier\overview_offers.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\config\config.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\config\email_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\config\io_messages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\config\ui_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\controllers\ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\controllers\projects_widget.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\helpers\email_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\helpers\utilities_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\libraries\projects_uac.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\libraries\projects_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\models\projects_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\403.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\ajax\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\ajax\PDF_all_tasks.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\ajax\PDF_task.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\ajax\accept_project.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\ajax\project_list_files.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\ajax\project_qa_files.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\ajax\project_upload_files.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\ajax\reject_project.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\ajax\task_list_files.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\ajax\upload_file.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\search.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\send_feedback.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\supplier\overview_projects.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\supplier\project_details.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\projects\views\supplier\projects_list.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\config\io_messages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\config\settings_file.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\config\template_file.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\controllers\admin\admin.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\controllers\admin\general.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\controllers\api.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\controllers\general.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\controllers\languages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\controllers\settings.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\controllers\softwares.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\controllers\subject_areas.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\controllers\sync.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\controllers\templates.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\libraries\general_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\libraries\language_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\libraries\settings_uac.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\libraries\template_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\models\general_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\models\language_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\models\settings_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\models\software_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\models\template_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\add_language.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\create_template.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\default.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\delete_language.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\delete_template.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\edit_language.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\edit_template.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\general\create.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\general\delete.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\general\edit.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\general\edit_template.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\general\index.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\languages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\softwares.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\subject_areas.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\sync.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\system_languages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\templates.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\settings\views\admin\users.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\socket\controllers\socket.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\socket\views\index.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\statistics\config\config.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\statistics\controllers\ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\statistics\controllers\statistics.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\statistics\controllers\statistics_widget.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\statistics\models\statistics_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\statistics\views\admin\overview_search.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\statistics\views\admin\statistics.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\statistics\views\supplier\overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\statistics\views\supplier\statistics.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\statistics\views\supplier\statistics_user.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\statistics\views\widget\list.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\statistics\views\widget\statistics_widget.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\statistics\views\widget\statistics_widget_small.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\statistics\views\widget\widget_overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\sync\config\io_messages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\sync\controllers\ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\sync\views\ajax\ftp_connection_message.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\templates\controllers\templates.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\templates\controllers\templates_widget.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\templates\views\create.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\templates\views\widget\create_template.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\templates\views\widget\template_list.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\templates\views\widget\template_overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\config\io_messages.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\config\translations_file.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\controllers\ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\controllers\translations.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\controllers\user.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\helpers\utilities_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\libraries\translation_uac.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\libraries\translation_validation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\models\translations_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\task\controllers\task.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\task\models\task_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\task\views\task_view.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\views\404.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\views\admin\create.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\views\admin\delete.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\views\admin\edit.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\views\admin\overview_translation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\views\admin\test.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\views\supplier\overview_translation.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\views\supplier\traslations_detail.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\views\upload_translation_file.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\translations\views\widget\test_translation_list.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\config\email_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\config\ui_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\controllers\ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\controllers\application.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\controllers\invoices.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\controllers\projects.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\controllers\search.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\helpers\email_helper.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\libraries\users_uac.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\admin\edit_translator.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\admin\invoices\details.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\admin\invoices\invoice_items.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\admin\invoices\invoices_overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\admin\overview_admins.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\admin\overview_translators.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\admin\projects\details.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\admin\projects\projects_list.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\admin\projects\projects_overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\add_absence.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\add_interpreting_charge.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\add_post_editing_charge.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\add_proof_reading_charge.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\add_translation_charge.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\address_info.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\bank_info.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\choose_native_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\company_info.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\contact_info.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\personal_info.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\translation_info.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\update_fields_of_expertise.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\update_supplier_bio.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\ajax\update_supplier_softwares.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\create.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\edit.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\supplier\application_form\complete.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\supplier\application_form\complete_info.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\supplier\application_form\default.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\supplier\application_form\step_2.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\supplier\application_form\step_3.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\supplier\application_form\step_4.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\supplier\edit_translator.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\supplier\profile.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\widget\admins_overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\widget\interpreting_overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\widget\post_editing_overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\widget\proof_reading_overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\widget\supplier_absence.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\widget\supplier_field_of_expertise.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\widget\supplier_qualifications.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\widget\supplier_softwares.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\users\views\widget\translation_overview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\beo_xml\countries_de.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\beo_xml\countries_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\beo_xml\languages_de.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\beo_xml\languages_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\beo_xml\software.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\beo_xml\subjects_de.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\beo_xml\subjects_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\controllers\xml.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\models\backupvendor.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\models\xml_model.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\test\countries_de.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\test\countries_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\test\languages_de.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\test\languages_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\test\software.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\test\subjects_de.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\test\subjects_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\vendors_xml\backupvendor.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\vendors_xml\vendor_beoDATA.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\views\sync.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\views\testview.php" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\xml_supplier\countries_de.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\xml_supplier\countries_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\xml_supplier\languages_de.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\xml_supplier\languages_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\xml_supplier\software.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\xml_supplier\subjects_de.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\xml_supplier\subjects_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\application\modules\xml\xml_supplier\vendor_beoDATA.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\add_users.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\bootstrap-datetimepicker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\bootstrap-switch.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\bootstrap.vertical-tabs.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\font-awesome-4.2.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\fullcalendar.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\global.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\animated-overlay.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\backgrounds\header.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\icons\mvh_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\loader-16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\jquery.cleditor.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\jquery.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\jquery.gritter.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\login.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\prettyPhoto.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\rateit.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\register.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\css\widgets.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\old\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\old\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\old\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\old\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\old\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\roboto-2014\Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\roboto-2014\Roboto-Regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\roboto-2014\Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\roboto-2014\Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\roboto\Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\roboto\Roboto-Regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\roboto\Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\fonts\roboto\Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\Sorting icons.psd" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\back_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\back_enabled.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\back_enabled_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\beo-logo105x69.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\beo-logo114x116.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\beo-logo120x120.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\beo-logo151x120.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\beo-logo151x151.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\beo-logo73x50.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\beo-logo85x69.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\forward_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\forward_enabled.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\forward_enabled_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\icons\linkedin_32.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\icons\xing_32.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\profile-picture-default.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\sort_asc.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\sort_asc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\sort_both.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\sort_desc.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\images\sort_desc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\delete.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\favicon\favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\gritter\gritter.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\gritter\ie-spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\15xvbd5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\android.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\chrome.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\firefox.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ad.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ae.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\af.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ag.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ai.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\al.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\am.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\an.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ao.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ar.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\as.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\at.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\au.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\aw.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ax.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\az.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ba.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bb.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bd.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\be.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bf.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bg.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bh.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bi.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bj.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bm.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bn.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bo.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\br.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bs.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bt.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bv.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bw.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\by.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\bz.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ca.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\catalonia.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\cc.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\cd.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\cf.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\cg.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ch.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ci.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ck.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\cl.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\cm.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\cn.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\co.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\cr.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\cs.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\cu.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\cv.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\cx.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\cy.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\cz.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\de.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\dj.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\dk.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\dm.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\do.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\dz.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ec.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ee.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\eg.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\eh.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\england.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\er.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\es.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\et.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\europeanunion.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\fam.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\fi.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\fj.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\fk.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\fm.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\fo.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\fr.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ga.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gb.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gd.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ge.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gf.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gh.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gi.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gl.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gm.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gn.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gp.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gq.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gr.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gs.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gt.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gu.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gw.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\gy.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\hk.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\hm.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\hn.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\hr.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ht.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\hu.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\id.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ie.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\il.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\in.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\io.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\iq.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ir.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\is.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\it.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\jm.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\jo.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\jp.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ke.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\kg.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\kh.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ki.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\km.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\kn.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\kp.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\kr.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\kw.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ky.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\kz.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\la.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\lb.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\lc.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\li.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\lk.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\lr.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ls.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\lt.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\lu.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\lv.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ly.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ma.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mc.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\md.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\me.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mg.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mh.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mk.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ml.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mm.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mn.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mo.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mp.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mq.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mr.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ms.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mt.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mu.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mv.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mw.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mx.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\my.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\mz.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\na.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\nc.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ne.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\nf.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ng.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ni.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\nl.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\no.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\np.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\nr.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\nu.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\nz.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\om.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\pa.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\pe.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\pf.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\pg.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ph.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\pk.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\pl.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\pm.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\pn.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\pr.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ps.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\pt.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\pw.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\py.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\qa.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\re.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ro.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\rs.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ru.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\rw.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sa.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sb.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sc.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\scotland.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sd.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\se.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sg.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sh.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\si.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sj.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sk.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sl.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sm.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sn.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\so.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sr.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\st.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sv.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sy.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\sz.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\tc.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\td.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\tf.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\tg.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\th.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\tj.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\tk.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\tl.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\tm.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\tn.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\to.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\tr.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\tt.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\tv.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\tw.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\tz.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ua.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ug.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\um.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\us.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\uy.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\uz.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\va.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\vc.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ve.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\vg.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\vi.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\vn.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\vu.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\wales.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\wf.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ws.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\ye.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\yt.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\za.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\zm.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\flags\zw.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\ie.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\ios.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\linux.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\loader_large_blue.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\mac.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\metro.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\opera.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\safari.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\icons\windows.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\images\buttons.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\images\toolbar.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\mvh_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\s1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\s10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\s2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\s3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\s4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\s5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\s6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\s7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\s8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\s9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\t1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\t10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\t2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\t3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\t4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\t5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\t6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\t7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\t8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\photos\t9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\dark_rounded\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\dark_rounded\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\dark_rounded\contentPattern.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\dark_rounded\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\dark_rounded\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\dark_rounded\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\dark_square\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\dark_square\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\dark_square\contentPattern.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\dark_square\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\dark_square\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\dark_square\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\default\default_thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\default\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\default\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\default\sprite_next.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\default\sprite_prev.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\default\sprite_x.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\default\sprite_y.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\facebook\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\facebook\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\facebook\contentPatternBottom.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\facebook\contentPatternLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\facebook\contentPatternRight.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\facebook\contentPatternTop.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\facebook\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\facebook\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\facebook\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\light_rounded\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\light_rounded\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\light_rounded\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\light_rounded\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\light_rounded\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\light_square\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\light_square\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\light_square\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\light_square\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\prettyPhoto\light_square\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\star.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\img\user.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\bootstrap-datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\bootstrap-switch.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\bootstrap.3.2.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\contact.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\custom.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\excanvas.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\filter.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\fullcalendar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\jquery-1.10.2.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\jquery-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\jquery.cleditor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\jquery.dataTables.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\jquery.flot.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\jquery.flot.pie.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\jquery.flot.resize.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\jquery.flot.stack.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\jquery.flot.time.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\jquery.gritter.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\jquery.prettyPhoto.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\jquery.rateit.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\logtrino.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\socket.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\sparkline-index.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\js\sparklines.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\pdf\Child.pdf" afterPath="" />
+      <change type="DELETED" beforePath="F:\wamp\www\mvhdev\assets\zip\zip_file.zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/logo.png" afterPath="$PROJECT_DIR$/assets/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/views/403.php" afterPath="$PROJECT_DIR$/application/modules/users/views/403.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/views/404.php" afterPath="$PROJECT_DIR$/application/modules/users/views/404.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/views/admin/404.php" afterPath="$PROJECT_DIR$/application/modules/users/views/admin/404.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/core/LTNO_Exceptions.php" afterPath="$PROJECT_DIR$/application/core/LTNO_Exceptions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/libraries/LTNO_Form_validation.php" afterPath="$PROJECT_DIR$/application/libraries/LTNO_Form_validation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/language/english/LTNO_Form_validation_lang.php" afterPath="$PROJECT_DIR$/application/language/english/LTNO_Form_validation_lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/hooks/LTNO_Initializer.php" afterPath="$PROJECT_DIR$/application/hooks/LTNO_Initializer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/core/LTNO_Model.php" afterPath="$PROJECT_DIR$/application/core/LTNO_Model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/libraries/LTNO_Pagination.php" afterPath="$PROJECT_DIR$/application/libraries/LTNO_Pagination.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/activation.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/activation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/activation_failed.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/activation_failed.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/emails/activation_request.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/emails/activation_request.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/activation_success.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/activation_success.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/activity/views/widget/activities.php" afterPath="$PROJECT_DIR$/application/modules/activity/views/widget/activities.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/activity/controllers/activity.php" afterPath="$PROJECT_DIR$/application/modules/activity/controllers/activity.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/activity/models/activity_model.php" afterPath="$PROJECT_DIR$/application/modules/activity/models/activity_model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/activity/controllers/activity_widget.php" afterPath="$PROJECT_DIR$/application/modules/activity/controllers/activity_widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/views/admin/search/admins_search_results.php" afterPath="$PROJECT_DIR$/application/modules/users/views/admin/search/admins_search_results.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/activity/controllers/ajax.php" afterPath="$PROJECT_DIR$/application/modules/activity/controllers/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/controllers/ajax.php" afterPath="$PROJECT_DIR$/application/modules/auth/controllers/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/app_model.php" afterPath="$PROJECT_DIR$/application/models/app_model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/helpers/app_utilities_helper.php" afterPath="$PROJECT_DIR$/application/helpers/app_utilities_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/controllers/auth.php" afterPath="$PROJECT_DIR$/application/modules/auth/controllers/auth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/libraries/auth_validation.php" afterPath="$PROJECT_DIR$/application/modules/auth/libraries/auth_validation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/autoload.php" afterPath="$PROJECT_DIR$/application/config/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/views/admin/create_admin.php" afterPath="$PROJECT_DIR$/application/modules/users/views/admin/create_admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/dashboard/controllers/dashboard.php" afterPath="$PROJECT_DIR$/application/modules/dashboard/controllers/dashboard.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/views/default.php" afterPath="$PROJECT_DIR$/application/modules/users/views/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/views/admin/delete.php" afterPath="$PROJECT_DIR$/application/modules/users/views/admin/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/views/admin/edit_admin.php" afterPath="$PROJECT_DIR$/application/modules/users/views/admin/edit_admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/views/edit_profile_picture.php" afterPath="$PROJECT_DIR$/application/modules/users/views/edit_profile_picture.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/views/edit_username.php" afterPath="$PROJECT_DIR$/application/modules/users/views/edit_username.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/helpers/email_utilities_helper.php" afterPath="$PROJECT_DIR$/application/helpers/email_utilities_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/administration/templates/footer.php" afterPath="$PROJECT_DIR$/application/views/administration/templates/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/portal/templates/footer.php" afterPath="$PROJECT_DIR$/application/views/portal/templates/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/templates/footer.php" afterPath="$PROJECT_DIR$/application/views/templates/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/forbidden_reset_password.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/forbidden_reset_password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/forgot_password.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/forgot_password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/emails/forgot_password.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/emails/forgot_password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/forgot_username.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/forgot_username.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/emails/forgot_username.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/emails/forgot_username.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/helpers/form_extend_helper.php" afterPath="$PROJECT_DIR$/application/helpers/form_extend_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/administration/templates/header.php" afterPath="$PROJECT_DIR$/application/views/administration/templates/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/portal/templates/header.php" afterPath="$PROJECT_DIR$/application/views/portal/templates/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/templates/header.php" afterPath="$PROJECT_DIR$/application/views/templates/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/index.html" afterPath="$PROJECT_DIR$/application/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/administration/index.php" afterPath="$PROJECT_DIR$/application/views/administration/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/portal/index.php" afterPath="$PROJECT_DIR$/application/views/portal/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/activity/config/io_messages.php" afterPath="$PROJECT_DIR$/application/modules/activity/config/io_messages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/config/io_messages.php" afterPath="$PROJECT_DIR$/application/modules/users/config/io_messages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/third_party/dompdf/lib/fonts/log.htm" afterPath="$PROJECT_DIR$/application/third_party/dompdf/lib/fonts/log.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/login.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/templates/login_footer.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/templates/login_footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/templates/login_header.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/templates/login_header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/libraries/logtrino_uac.php" afterPath="$PROJECT_DIR$/application/libraries/logtrino_uac.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/libraries/logtrino_ui.php" afterPath="$PROJECT_DIR$/application/libraries/logtrino_ui.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/libraries/logtrino_user.php" afterPath="$PROJECT_DIR$/application/libraries/logtrino_user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/portal/templates/message.php" afterPath="$PROJECT_DIR$/application/views/portal/templates/message.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/templates/message.php" afterPath="$PROJECT_DIR$/application/views/templates/message.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/emails/notify_registration_complete.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/emails/notify_registration_complete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/offers/controllers/offers.php" afterPath="$PROJECT_DIR$/application/modules/offers/controllers/offers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/activity/views/overview.php" afterPath="$PROJECT_DIR$/application/modules/activity/views/overview.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/dashboard/views/overview.php" afterPath="$PROJECT_DIR$/application/modules/dashboard/views/overview.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/controllers/overview.php" afterPath="$PROJECT_DIR$/application/modules/users/controllers/overview.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/administration/templates/page_header.php" afterPath="$PROJECT_DIR$/application/views/administration/templates/page_header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/portal/templates/page_header.php" afterPath="$PROJECT_DIR$/application/views/portal/templates/page_header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/views/admin/profile.php" afterPath="$PROJECT_DIR$/application/modules/users/views/admin/profile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/projects/controllers/projects.php" afterPath="$PROJECT_DIR$/application/modules/projects/controllers/projects.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/activity/views/widget/recent_activities.php" afterPath="$PROJECT_DIR$/application/modules/activity/views/widget/recent_activities.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/register.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/register_success.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/register_success.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/request_reset.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/request_reset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/templates/request_reset_footer.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/templates/request_reset_footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/templates/request_reset_header.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/templates/request_reset_header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/reset_password.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/reset_password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/views/reset_password.php" afterPath="$PROJECT_DIR$/application/modules/users/views/reset_password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/reset_password_sent.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/reset_password_sent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/routes.php" afterPath="$PROJECT_DIR$/application/config/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/helpers/security_helper.php" afterPath="$PROJECT_DIR$/application/helpers/security_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/administration/templates/sidebar.php" afterPath="$PROJECT_DIR$/application/views/administration/templates/sidebar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/templates/sidebar.php" afterPath="$PROJECT_DIR$/application/views/templates/sidebar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/helpers/socket_helper.php" afterPath="$PROJECT_DIR$/application/helpers/socket_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/libraries/tivoka.php" afterPath="$PROJECT_DIR$/application/libraries/tivoka.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/views/admin/search/translators_search_results.php" afterPath="$PROJECT_DIR$/application/modules/users/views/admin/search/translators_search_results.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/auth/views/username_sent.php" afterPath="$PROJECT_DIR$/application/modules/auth/views/username_sent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/controllers/users.php" afterPath="$PROJECT_DIR$/application/modules/users/controllers/users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/config/users_file.php" afterPath="$PROJECT_DIR$/application/modules/users/config/users_file.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/models/users_model.php" afterPath="$PROJECT_DIR$/application/modules/users/models/users_model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/libraries/users_validation.php" afterPath="$PROJECT_DIR$/application/modules/users/libraries/users_validation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/controllers/users_widget.php" afterPath="$PROJECT_DIR$/application/modules/users/controllers/users_widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/helpers/utilities_helper.php" afterPath="$PROJECT_DIR$/application/helpers/utilities_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/activity/helpers/utilities_helper.php" afterPath="$PROJECT_DIR$/application/modules/activity/helpers/utilities_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/users/helpers/utilities_helper.php" afterPath="$PROJECT_DIR$/application/modules/users/helpers/utilities_helper.php" />
+    </list>
+    <ignored path="mvhdev.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mvhdev" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="works.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/works/controllers/works.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-17.854546" vertical-offset="4135" max-vertical-offset="5576">
+              <caret line="301" column="20" selection-start-line="301" selection-start-column="13" selection-end-line="301" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="overviews.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/labours/views/overviews.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="3774">
+              <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/auth/views/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.6923075" vertical-offset="320" max-vertical-offset="1258">
+              <caret line="26" column="53" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="53" />
+              <folding>
+                <element signature="e#1201#1229#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/auth/controllers/auth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="5.8846154" vertical-offset="1479" max-vertical-offset="12954">
+              <caret line="78" column="63" selection-start-line="78" selection-start-column="63" selection-end-line="78" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="overviews.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/works/views/overviews.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="10761">
+              <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.615385" vertical-offset="2512" max-vertical-offset="6358">
+              <caret line="164" column="75" selection-start-line="164" selection-start-column="75" selection-end-line="164" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="labours.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/modules/labours/controllers/labours.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6831229" vertical-offset="0" max-vertical-offset="871">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="labour_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/labours/models/labour_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-27.461538" vertical-offset="0" max-vertical-offset="833">
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding>
+                <marker date="1454258665153" expanded="true" signature="1569:1756" placeholder="select o.wor..ltno_worker_of_work..." />
+                <marker date="1454258665153" expanded="true" signature="2013:2064" placeholder="SELECT * FRO..ltno_worker_of_work..." />
+                <marker date="1454258665153" expanded="true" signature="2013:2067" placeholder="SELECT * FRO..ltno_worker_of_work..." />
+                <marker date="1454258665153" expanded="true" signature="2013:2087" placeholder="SELECT * FRO..ltno_worker_of_work..." />
+                <marker date="1454258665153" expanded="true" signature="2013:2279" placeholder="SELECT * FRO..ltno_worker_of_work..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="391">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contract_work.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/works/views/contract_work.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="8993">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/application/views/templates/header.php" />
+        <option value="$PROJECT_DIR$/application/views/administration/templates/header.php" />
+        <option value="$PROJECT_DIR$/application/modules/labours/models/labour_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/labours/controllers/labours.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labours" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvhdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labours" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="596c47e2-eb57-43ca-8ef1-54a46084b00a" name="Default" comment="" />
+      <created>1454240073066</created>
+      <option name="number" value="Default" />
+      <updated>1454240073066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16950959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/doctypes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="782">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/hooks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/logtrino.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.815155" vertical-offset="1581" max-vertical-offset="2754">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/migration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/mimes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1794872" vertical-offset="1012" max-vertical-offset="1870">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/profiler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/rest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.252913" vertical-offset="7081" max-vertical-offset="7939">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/smileys.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3857635" vertical-offset="336" max-vertical-offset="1207">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/user_agents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5717566" vertical-offset="2240" max-vertical-offset="3111">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/database/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.966705" vertical-offset="1713" max-vertical-offset="2839">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3723">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="50.846153" vertical-offset="1322" max-vertical-offset="2193">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.384615" vertical-offset="64" max-vertical-offset="935">
+          <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/workers/config/worker_file_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/workers/views/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5049">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/helpers/url_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3432836" vertical-offset="8711" max-vertical-offset="10183">
+          <caret line="530" column="13" selection-start-line="530" selection-start-column="13" selection-end-line="530" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/works/views/contract_work.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8993">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5932401" vertical-offset="6852" max-vertical-offset="10693">
+          <caret line="433" column="0" selection-start-line="433" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/administration/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6433567" vertical-offset="5050" max-vertical-offset="9758">
+          <caret line="380" column="69" selection-start-line="380" selection-start-column="69" selection-end-line="380" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.615385" vertical-offset="2512" max-vertical-offset="6358">
+          <caret line="164" column="75" selection-start-line="164" selection-start-column="75" selection-end-line="164" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/works/views/overviews.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="10761">
+          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/auth/views/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6923075" vertical-offset="320" max-vertical-offset="1258">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="53" />
+          <folding>
+            <element signature="e#1201#1229#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/auth/controllers/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.8846154" vertical-offset="1479" max-vertical-offset="12954">
+          <caret line="78" column="63" selection-start-line="78" selection-start-column="63" selection-end-line="78" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/labours/views/overviews.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="3774">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/works/controllers/works.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.854546" vertical-offset="4135" max-vertical-offset="5576">
+          <caret line="301" column="20" selection-start-line="301" selection-start-column="13" selection-end-line="301" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/labours/models/labour_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.461538" vertical-offset="0" max-vertical-offset="833">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <marker date="1454258665153" expanded="true" signature="1569:1756" placeholder="select o.wor..ltno_worker_of_work..." />
+            <marker date="1454258665153" expanded="true" signature="2013:2064" placeholder="SELECT * FRO..ltno_worker_of_work..." />
+            <marker date="1454258665153" expanded="true" signature="2013:2067" placeholder="SELECT * FRO..ltno_worker_of_work..." />
+            <marker date="1454258665153" expanded="true" signature="2013:2087" placeholder="SELECT * FRO..ltno_worker_of_work..." />
+            <marker date="1454258665153" expanded="true" signature="2013:2279" placeholder="SELECT * FRO..ltno_worker_of_work..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/labours/controllers/labours.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6831229" vertical-offset="0" max-vertical-offset="871">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

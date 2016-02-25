@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beo\n"
+"POT-Creation-Date: 2014-09-16 20:11+0630\n"
+"PO-Revision-Date: 2015-04-06 14:24+0630\n"
+"Last-Translator: \n"
+"Language-Team: Ko Ko Zin <kozin@mvhnetworks.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: de_DE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2;plural=n==1 ? 0 : 1;\n"
+
+# ###################################################
+# Applications Module
+# ###################################################
+# ## General ###
+# ###################
+# ## Controllers ##
+# ###################
+# application/modules/applications/controllers/applications.php ( Line: 128 )
+msgid "Applications"
+msgstr "Anwendungen"
+
+# application/modules/applications/controllers/applications.php ( Line: 211 )
+msgid "Create an application"
+msgstr "Erstellen Sie eine Anwendung"
+
+# application/modules/applications/controllers/applications.php ( Line: 304 )
+msgid "Edit Application"
+msgstr "Anwendung bearbeiten"
+
+# application/modules/applications/controllers/applications.php ( Line: 385 )
+msgid "Delete Application"
+msgstr "Anwendung löschen"
+
+# application/modules/applications/controllers/applications.php ( Line: 236 )
+msgid "Application Not Found"
+msgstr "Anwendung nicht gefunden"
+
+# application/modules/applications/controllers/applications.php ( Line: 236 )
+msgid "The application couldn't find."
+msgstr "Die Anwendung konnte nicht gefunden."
+
+# application/modules/applications/controllers/search.php ( Line: 132 )
+msgid "Search - Applications"
+msgstr "Suche - Anwendungen"
+
+# ##############
+# ## Views ###
+# ##############
+# application/modules/applications/views/ajax/application_details.php (Line: 19 )
+msgid "Created:"
+msgstr "Erstellt:"
+
+# application/modules/applications/views/ajax/application_details.php (Line: 20 )
+msgid "Updated:"
+msgstr "aktualisiert:"
+
+# application/modules/applications/views/ajax/application_details.php (Line: 22 )
+msgid "Views:"
+msgstr "Ansichten:"
+
+# application/modules/applications/views/ajax/application_details.php (Line: 24 )
+msgid "Open"
+msgstr "Öffnen Sie"
+
+# application/modules/applications/views/ajax/application_details.php (Line: 29 )
+msgid "The application you requested couldn't find."
+msgstr "Die von Ihnen angeforderte Seite konnte nicht gefunden Anwendung."
+
+# application/modules/applications/views/404.php (Line: 28 )
+msgid "See all applications"
+msgstr "Alle Anwendungen"
+
+# application/modules/applications/views/404.php (Line: 33 )
+msgid "Create new application"
+msgstr "Erstelle eine neue Anwendung"
+
+# application/modules/applications/views/create.php ( Line: 31 )
+msgid "Title"
+msgstr "Titel"
+
+# application/modules/applications/views/create.php ( Line: 39 )
+msgid "URL"
+msgstr "URL"
+
+# application/modules/applications/views/create.php ( Line: 47 )
+msgid "Description"
+msgstr "Beschreibung"
+
+# application/modules/applications/views/delete.php ( Line: 26 )
+msgid "You're about to delete an application <strong>%s</strong>."
+msgstr "Sie sind dabei, eine Anwendung <strong>%s</strong> löschen."
+
+# application/modules/applications/views/delete.php ( Line: 26 )
+msgid "It will be deleted permenantly from system."
+msgstr "Es wird permenantly von System gelöscht."
+
+# application/modules/applications/views/delete.php ( Line: 27 )
+msgid "Please continue to delete application or cancel this operation."
+msgstr "Bitte weiterhin Anwendung zu löschen oder den Vorgang abzubrechen."
+
+# application/modules/applications/views/overview_applications.php ( Line: 43 )
+msgid "Filter"
+msgstr "Filter"
+
+# application/modules/applications/views/overview_applications.php ( Line: 45 )
+msgid "Search for:"
+msgstr "Suche nach:"
+
+# application/modules/applications/views/overview_applications.php ( Line: 45 )
+msgid "New Application"
+msgstr "neue Anwendung"
+
+# application/modules/applications/views/overview_applications.php ( Line: 93 )
+msgid "Views"
+msgstr "Ansichten"
+
+# application/modules/applications/views/overview_applications.php ( Line: 114 )
+msgid "Created"
+msgstr "Erstellt"
+
+# application/modules/applications/views/overview_applications.php ( Line: 134 )
+msgid "Updated"
+msgstr "aktualisiert"
+
+# application/modules/applications/views/overview_applications.php ( Line: 165 )
+msgid "Details"
+msgstr "Einzelheiten"
+
+# application/modules/applications/views/overview_applications.php ( Line: 171 )
+msgid "%d View"
+msgid_plural "%d Views"
+msgstr[0] "%d Ansicht"
+msgstr[1] "%d Ansichten"
+
+# application/modules/applications/views/overview_applications.php ( Line: 192 )
+msgid "No applications found."
+msgstr "Keine Anwendungen gefunden."
+
+# application/modules/applications/views/search_results.php ( Line: 194 )
+msgid "No results found."
+msgstr "Keine Ergebnisse gefunden."
+
+# #################
+# ## Messages ###
+# #################
+# application/modules/applications/config/io_messages.php ( Line: 21 )
+msgid "Couldn't create new application."
+msgstr "Neue Anwendung konnte nicht erstellt werden."
+
+# application/modules/applications/config/io_messages.php ( Line: 20 )
+msgid "New application %s successfully created."
+msgstr "Neue Anwendung %s erfolgreich erstellt."
+
+# application/modules/applications/config/io_messages.php ( Line: 22 )
+msgid "Application successfully updated."
+msgstr "Anwendung erfolgreich aktualisiert."
+
+# application/modules/applications/config/io_messages.php ( Line: 23 )
+msgid "Application couldn't be updated."
+msgstr "Anwendung konnte nicht aktualisiert werden."
+
+# application/modules/applications/config/io_messages.php ( Line: 24 )
+msgid "Application %s successfully deleted."
+msgstr "Anwendung %s erfolgreich gelöscht."
+
+# application/modules/applications/config/io_messages.php ( Line: 25 )
+msgid "Application %s couldn't be deleted."
+msgstr "Anwendung %s konnte nicht gelöscht werden."

@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beo\n"
+"POT-Creation-Date: 2014-09-16 20:11+0630\n"
+"PO-Revision-Date: 2015-04-07 19:24+0630\n"
+"Last-Translator: \n"
+"Language-Team: Ko Ko Zin <kozin@mvhnetworks.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: de_DE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2;plural=n==1 ? 0 : 1;\n"
+
+# ###################################################
+# Offers Module
+# ###################################################
+# ## General ##
+msgid "Offers"
+msgstr "Bietet An"
+
+msgid "View All Offers"
+msgstr "View All Offers"
+
+msgid "Accept Task"
+msgstr "Accept Task"
+
+msgid "In Progress"
+msgstr "In Progress"
+
+msgid "Task Completed"
+msgstr "Task Completed"
+
+# application/modules/offers/config/config.php ( Line: 13 )
+msgid "Translation"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 14 )
+msgid "DTP"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 15 )
+msgid "Review"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 18 )
+msgid "Translatable"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 19 )
+msgid "Reference"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 20 )
+msgid "Contract"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 31 )
+msgid "Job Waiting"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 32 )
+msgid "Job Running"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 33 )
+msgid "Job Uploaded"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 34 )
+msgid "Job QA waiting"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 35 )
+msgid "Job Finish"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 38 )
+msgid "General review"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 39 )
+msgid "Detailed review"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 40 )
+msgid "SNC-Log"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 41 )
+msgid "Customer report"
+msgstr ""
+
+# application/modules/offers/config/config.php ( Line: 42 )
+msgid "Compare"
+msgstr ""
+
+# application/modules/offers/controllers/offers.php ( Line: 99 )
+msgid "Offers name (number)"
+msgstr "Angebote Name (Nummer)"
+
+# application/modules/offers/controllers/offers.php ( Line: 339 )
+msgid "Send Feedback"
+msgstr ""
+
+# application/modules/offers/views/overview.php ( Line: 60 )
+msgid "You've no notifications."
+msgstr "Sie haben keine Benachrichtigungen."
+
+# application/modules/offers/views/ajax/PDF_task.php ( Line: 63, 66 )
+msgid "This task doesn't include any file."
+msgstr "This task doesn't include any file."
+
+# application/modules/offers/views/ajax/offer_list_files.php ( Line: 68 )
+msgid "This offer doesn't include any file."
+msgstr "This offer doesn't include any file."
+
+# application/modules/offers/views/ajax/project_qa_files.php ( Line: 68 )
+msgid "This offer doesn't include QA report."
+msgstr "This offer doesn't include QA report."
+
+msgid "Offer Status"
+msgstr "Offer Status"
+
+msgid "Source Language"
+msgstr "Source Language"
+
+msgid "Target Language"
+msgstr "Target Language"
+
+msgid "Order Date"
+msgstr "Order Date"
+
+msgid "Deliver Date"
+msgstr "Deliver Date"
+
+msgid "Project Name"
+msgstr "Project Name"
+
+msgid "Project Number"
+msgstr "Project Number"
+
+msgid "Task Type"
+msgstr "Task Type"
+
+msgid "Subject"
+msgstr "Subject"
+
+msgid "Project Manager"
+msgstr "Project Manager"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Quantity"
+msgstr "Quantity"
+
+msgid "Unit"
+msgstr "Unit"
+
+msgid "Price/Unit"
+msgstr "Price/Unit"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Task Name"
+msgstr "Task Name"
+
+msgid "Order Number"
+msgstr "Order Number"
+
+msgid "File"
+msgstr "File"
+
+msgid "Files"
+msgstr "Files"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Notes"
+msgstr "Notes"
+
+msgid "Order Items"
+msgstr "Order Items"
+
+msgid "Open Offer Title"
+msgstr "Open Offer Title"
+
+msgid "Accept Offer"
+msgstr "Accept Offer"
+
+msgid "Reject Offer"
+msgstr "Reject Offer"
+
+msgid "Offer Accepted"
+msgstr "Offer Accepted"
+
+msgid "Receive Offer Files"
+msgstr "Receive Offer Files"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Production Start"
+msgstr "Production Start"
+
+msgid "Delivery Date"
+msgstr "Delivery Date"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Original File Type"
+msgstr "Original File Type"
+
+msgid "Expected File Type"
+msgstr "Expected File Type"
+
+msgid "Deliver File Through"
+msgstr "Deliver File Through"
+
+msgid "Terminology"
+msgstr "Terminology"
+
+msgid "Style Guide"
+msgstr "Style Guide"
+
+msgid "Reference Material"
+msgstr "Reference Material"
+
+msgid "Instructions"
+msgstr "Instructions"
+
+msgid "Client's Feedback"
+msgstr "Client's Feedback"
+
+# ## Messages ##
+
+msgid "Write your feedback about this offer to send to project manager."
+msgstr "Write your feedback about this offer to send to project manager."
+
+# application/modules/offers/config/io_messages.php ( Line: 20 )
+msgid "Your request has been sent successflly. We'll come back to you soon."
+msgstr ""
+
+# application/modules/offers/config/io_messages.php ( Line: 21 )
+msgid "An error was encountered when processing your request. Please try again later."
+msgstr ""
+
+# application/modules/offers/config/io_messages.php ( Line: 22 )
+msgid "You don't have permission to do this request."
+msgstr ""
+
+# application/modules/offers/config/io_messages.php ( Line: 23 )
+msgid "Your note has been saved."
+msgstr ""
+
+# application/modules/offers/config/io_messages.php ( Line: 24 )
+msgid "Your note has not saved."
+msgstr ""
+
+# application/modules/offers/config/io_messages.php ( Line: 25 )
+msgid "Your note has been deleted."
+msgstr ""
+
+# application/modules/offers/config/io_messages.php ( Line: 26 )
+msgid "Your note hasn't deleted."
+msgstr ""
+
+# application/modules/offers/config/io_messages.php ( Line: 36 )
+msgid "<i class=\"fa fa-plus-square blue\"></i> %s accepted an offer (<a href=\"%s\">%s</a>)."
+msgstr "<i class=\"fa fa-plus-square blue\"></i> %s accepted an offer (<a href=\"%s\">%s</a>)."
+
+# application/modules/offers/config/io_messages.php ( Line: 40 )
+msgid "<i class=\"fa fa-ban red\"></i> %s rejected an offer (<a href=\"%s\">%s</a>)."
+msgstr "<i class=\"fa fa-ban red\"></i> %s rejected an offer (<a href=\"%s\">%s</a>)."
+
+
+# application/modules/offers/config/io_messages.php ( Line: 45 )
+msgid "<i class=\"fa fa-plus-square blue\"></i> <a href=\"%s\">%s</a> added a <a href=\"%s\">note</a>."
+msgstr "<i class=\"fa fa-plus-square blue\"></i> <a href=\"%s\">%s</a> added a <a href=\"%s\">note</a>."
+
+# application/modules/offers/config/io_messages.php ( Line: 49 )
+msgid "<i class=\"fa fa-trash red\"></i> <a href=\"%s\">%s</a> removed a note."
+msgstr "<i class=\"fa fa-trash red\"></i> <a href=\"%s\">%s</a> removed a note."
+
+# application/modules/offers/config/io_messages.php ( Line: 53 )
+msgid "<i class=\"fa fa-edit\"></i> <a href=\"%s\">%s</a> edited a <a href=\"%s\">note</a>."
+msgstr "<i class=\"fa fa-edit\"></i> <a href=\"%s\">%s</a> edited a <a href=\"%s\">note</a>."

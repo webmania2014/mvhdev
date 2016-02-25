@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beo\n"
+"POT-Creation-Date: 2014-09-16 20:11+0630\n"
+"PO-Revision-Date: 2014-09-17 21:13+0630\n"
+"Last-Translator: \n"
+"Language-Team: Ko Ko Zin <kozin@mvhnetworks.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: en_US\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+
+####################################################
+# Validation Errors
+####################################################
+
+msgid "Oop! Something wrong. Please correct the highlighted fields."
+msgstr "Oop! Something wrong. Please correct the highlighted fields."
+
+msgid "Please select applicant type."
+msgstr "Please select applicant type."
+
+msgid "Applicant type does't exists."
+msgstr "Applicant type does't exists."
+
+msgid "%s is required."
+msgstr "%s is required."
+
+msgid "%s must be at least %d characters in length."
+msgstr "%s must be at least %d characters in length."
+
+msgid "Email you provided is not valid."
+msgstr "Email you provided is not valid."
+
+msgid "Email already used."
+msgstr "Email already used."
+
+msgid "Password is not correct."
+msgstr "Password is not correct."
+
+msgid "Enter your current password."
+msgstr "Enter your current password."
+
+msgid "Please enter your new password"
+msgstr "Please enter your new password"
+
+msgid "Password does not match."
+msgstr "Password does not match."
+
+msgid "New password should not same with old one. Please choose a different password."
+msgstr "New password should not same with old one. Please choose a different password."
+
+msgid "%s must contain only numbers"
+msgstr "%s must contain only numbers"
+
+msgid "Username is already taken."
+msgstr "Username is already taken."
+
+msgid "There is same company for %s already registered."
+
+msgid "You've to agree our terms and conditions."
+msgstr "You've to agree our terms and conditions."
+
+msgid "The Slug field must contain a unique value."
+msgstr "The Slug field must contain a unique value."

@@ -1,0 +1,396 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beo\n"
+"POT-Creation-Date: 2014-09-16 20:11+0630\n"
+"PO-Revision-Date: 2015-04-06 20:12+0630\n"
+"Last-Translator: \n"
+"Language-Team: Ko Ko Zin <kozin@mvhnetworks.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: de_DE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2;plural=n==1 ? 0 : 1;\n"
+
+# ###################################################
+# Content Module
+# ###################################################
+# ## General ###
+# application/modules/content/controllers/admin/contact.php ( Line: 93 )
+msgid "Content - Contact"
+msgstr "Inhalt - Kontakt"
+
+# application/modules/content/controllers/admin/help.php ( Line: 144 )
+msgid "Help"
+msgstr "Zu Hilfe"
+
+# application/modules/content/controllers/admin/help.php ( Line: 236 )
+msgid "Help - Search"
+msgstr "Hilfe - Suche"
+
+# application/modules/content/controllers/admin/help.php ( Line: 364 )
+msgid "Create help"
+msgstr "Hilfe erstellen"
+
+# application/modules/content/controllers/admin/help.php ( Line: 528 )
+msgid "Edit help"
+msgstr "Hilfe Bearbeiten"
+
+# application/modules/content/controllers/admin/help.php ( Line: 611 )
+msgid "Delete Help"
+msgstr "löschen Hilfe"
+
+# application/modules/content/controllers/admin/home.php ( Line: 225 )
+msgid "Home"
+msgstr "Nach Hause"
+
+# application/modules/content/controllers/admin/news.php ( Line: 138 )
+msgid "News"
+msgstr "Nachrichten"
+
+# application/modules/content/controllers/admin/news.php ( Line: 223 )
+msgid "News - Search"
+msgstr "News - Suche"
+
+# application/modules/content/controllers/admin/news.php ( Line: 347 )
+msgid "Create New"
+msgstr "Erstelle Neu"
+
+# application/modules/content/controllers/admin/news.php ( Line: 512 )
+msgid "Edit New"
+msgstr "Bearbeiten Neu"
+
+# application/modules/content/controllers/admin/news.php ( Line: 595 )
+msgid "Delete New"
+msgstr "Neu Löschen"
+
+# application/modules/content/controllers/admin/pages.php ( Line: 139 )
+msgid "Pages"
+msgstr "Seiten"
+
+# application/modules/content/controllers/admin/pages.php ( Line: 258 )
+msgid "Create CMS page"
+msgstr "Neues CMS Seite"
+
+# application/modules/content/controllers/admin/pages.php ( Line: 410 )
+msgid "Edit CMS Page"
+msgstr "Bearbeiten CMS Seite"
+
+# application/modules/content/controllers/admin/pages.php ( Line: 473 )
+msgid "Delete Page"
+msgstr "Seite löschen"
+
+# application/modules/content/controllers/content.php ( Line: 192 )
+msgid "Contact"
+msgstr "Kontakt"
+
+# ## Contact ##
+# application/modules/content/views/admin/ajax/delete_contact.php ( Line: 18 )
+msgid "Are you sure to delete this contact ?"
+msgstr "Sind Sie sicher, dass Sie diesen Kontakt löschen?"
+
+# application/modules/content/views/admin/ajax/delete_contact.php ( Line: 19 )
+msgid "It's permanent deletion and there is no way to restore it."
+msgstr ""
+"Es ist definitiv gelöscht und es gibt keinen Weg, um sie wiederherzustellen."
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 27 )
+msgid "Contact Details"
+msgstr "Kontaktdaten"
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 36, 95 )
+msgid "Title"
+msgstr "Titel"
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 36 )
+msgid "Emails"
+msgstr "E-Mails"
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 44 )
+msgid "Comma seperated multiple emails."
+msgstr "Komma getrennt mehrere E-Mails."
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 48 )
+msgid "Phone Numbers"
+msgstr "Telefonnummern"
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 56 )
+msgid "Comma seperated multiple telephone numbers."
+msgstr "Komma getrennt mehrere Telefonnummern."
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 60 )
+msgid "Fax Numbers"
+msgstr "Faxnummern"
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 68 )
+msgid "Comma seperated multiple faxes."
+msgstr "Komma getrennt mehrere Faxe."
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 72 )
+msgid "URLs"
+msgstr "URLs"
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 80 )
+msgid "Comma seperated multiple URL."
+msgstr "Komma getrennt mehrere URL."
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 84 )
+msgid "Address"
+msgstr "Die Anschrift"
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 101 )
+msgid "Lat"
+msgstr "Lat"
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 108 )
+msgid "Lng"
+msgstr "Lng"
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 117 )
+msgid "Set as default"
+msgstr "Als Standard festlegen"
+
+# application/modules/content/views/admin/ajax/edit_contact.php ( Line: 120 )
+msgid "You cannot uncheck default location"
+msgstr "Sie können Standard-Speicherort nicht deaktivieren"
+
+# application/modules/content/views/admin/contact/contact_default_item.php ( Line: 35 )
+msgid "Email"
+msgstr "E-Mail"
+
+# application/modules/content/views/admin/contact/contact_default_item.php ( Line: 42 )
+msgid "Phone"
+msgstr "Telefon"
+
+# application/modules/content/views/admin/contact/contact_default_item.php ( Line: 49 )
+msgid "Fax"
+msgstr "Fax"
+
+# application/modules/content/views/admin/contact/contact_default_item.php ( Line: 69 )
+msgid "Location"
+msgstr "Lage"
+
+# application/modules/content/views/admin/contact/contact_default_item.php ( Line: 94 )
+msgid "Add Contact"
+msgstr "Kontakt hinzufügen"
+
+# application/modules/content/views/admin/contact/contact_default_item.php ( Line: 95 )
+msgid "Creating"
+msgstr "Erstellen"
+
+# application/modules/content/views/admin/contact/contact_item.php ( Line: 37 )
+msgid "Web"
+msgstr "Steg"
+
+# application/modules/content/views/admin/contact/contact_item.php ( Line: 52 )
+msgid "Telephones"
+msgstr "Telefone"
+
+# application/modules/content/views/admin/contact/contact_item.php ( Line: 63 )
+msgid "Faxes"
+msgstr "Faxgeräte"
+
+# application/modules/content/views/admin/contact/overview.php ( Line: 33 )
+msgid "Success"
+msgstr "Erfolg"
+
+# application/modules/content/views/admin/contact/overview.php ( Line: 33 )
+msgid "Contact updated successfully."
+msgstr "Kontakt erfolgreich aktualisiert."
+
+# application/modules/content/views/admin/contact/overview.php ( Line: 33 )
+msgid "Reload contact"
+msgstr "Reload Kontakt"
+
+# ## Help ##
+# application/modules/content/views/admin/help/404.php ( Line: 30, 33 )
+msgid "View All Help"
+msgstr "Alle anzeigen Hilfe"
+
+# application/modules/content/views/admin/help/404.php ( Line: 31 )
+msgid "Create Help"
+msgstr "erstellen Hilfe"
+
+# application/modules/content/views/admin/help/delete.php ( Line: 26 )
+msgid "You're about to delete a help <strong>%s</strong>."
+msgstr "Sie sind dabei, eine Hilfe zu löschen <strong>%s</strong>."
+
+# application/modules/content/views/admin/help/delete.php ( Line: 27 )
+msgid "Please continue to delete help or cancel this operation."
+msgstr "Bitte fahren Sie fort, Hilfe zu löschen oder den Vorgang abzubrechen."
+
+# application/modules/content/views/admin/help/index.php ( Line: 82 )
+msgid "Add Help"
+msgstr "hinzufügen Hilfe"
+
+# application/modules/content/views/admin/help/index.php ( Line: 203 )
+msgid "No help exists."
+msgstr "Keine Hilfe vorhanden ist."
+
+# application/modules/content/views/admin/help/index.php ( Line: 203 )
+msgid "Create New Help"
+msgstr "Neu erstellen Hilfe"
+
+# ## News ##
+# application/modules/content/views/admin/news/404.php ( Line: 30, 33 )
+msgid "View All News"
+msgstr "Alle Nachrichten"
+
+# application/modules/content/views/admin/news/404.php ( Line: 31 )
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+# application/modules/content/views/admin/news/delete.php ( Line: 26 )
+msgid "You're about to delete a new <strong>%s</strong>."
+msgstr "Sie sind dabei, zu löschen eine neue <strong>%s</strong>."
+
+# application/modules/content/views/admin/news/delete.php ( Line: 27 )
+msgid "Please continue to delete new or cancel this operation."
+msgstr "Bitte fahren sie fort, Hilfe zu löschen oder den vorgang abzubrechen."
+
+# application/modules/content/views/admin/news/index.php ( Line: 226 )
+msgid "No news exists."
+msgstr "Keine Nachrichten vorhanden."
+
+# application/modules/content/views/admin/news/index.php ( Line: 245 )
+msgid "Viewable by everyone. Click to change."
+msgstr "Sichtbar für alle. Klicken Sie hier um zu ändern."
+
+# application/modules/content/views/admin/news/index.php ( Line: 246 )
+msgid "Viewable only by members. Click to change."
+msgstr "Sichtbar nur für Mitglieder. Klicken Sie hier um zu ändern."
+
+# application/modules/content/views/widget/news_widget.php ( Line: 82 )
+msgid "See all news"
+msgstr "Alle Nachrichten"
+
+# ## Pages ##
+# application/modules/content/views/admin/pages/404.php ( Line: 30 )
+msgid "View Pages"
+msgstr "Seiten anzeigen"
+
+# application/modules/content/views/admin/pages/404.php ( Line: 31 )
+msgid "Create New Page"
+msgstr "Neue Seite erstellen"
+
+# appliation/modules/content/views/admin/pages/create.php ( Line: 101 )
+msgid "Content"
+msgstr "Inhalt"
+
+# application/modules/content/views/admin/pages/delete.php ( Line: 26 )
+msgid "You're about to delete a page <strong>%s</strong>."
+msgstr "Sie laden ein zu löschen Seiten <strong>%s</strong>."
+
+# application/modules/content/views/admin/pages/delete.php ( Line: 27 )
+msgid "Please continue to delete page or cancel this operation."
+msgstr "Bitte fahren Sie auf Seite löschen oder den Vorgang abzubrechen."
+
+# application/modules/content/views/admin/pages/home.php ( Line: 81 )
+msgid "Intro Text"
+msgstr "Einführungstext"
+
+# application/modules/content/views/admin/pages/home.php ( Line: 88 )
+msgid "Footer"
+msgstr "Fußzeile"
+
+# application/modules/content/views/admin/pages/index.php ( Line: 49 )
+msgid "Add New CMS Page"
+msgstr "Neue CMS Seite"
+
+# application/modules/content/views/admin/pages/index.php ( Line: 201 )
+msgid "No pages exists."
+msgstr "Keine Seite existiert."
+
+msgid "Are you sure ?"
+msgstr "Sind Sie sicher?"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Slug"
+msgstr "Schnecke"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Recently Added"
+msgstr "Kürzlich Hinzugefügt"
+
+msgid "Suggestion"
+msgstr "Vorschlag"
+
+# ## Messages ###
+# application/modules/content/config/io_messages.php ( Line: 20 )
+msgid "Help successfully created."
+msgstr "Hilfe erfolgreich erstellt."
+
+# application/modules/content/config/io_messages.php ( Line: 21 )
+msgid "Couldn't create help."
+msgstr "Konnte nicht erstellt werden Hilfe."
+
+# application/modules/content/config/io_messages.php ( Line: 22 )
+msgid "Help successfully updated."
+msgstr "Hilfe erfolgreich aktualisiert."
+
+# application/modules/content/config/io_messages.php ( Line: 23 )
+msgid "Help couldn't be updated."
+msgstr "Hilfe konnte nicht aktualisiert werden."
+
+# application/modules/content/config/io_messages.php ( Line: 24 )
+msgid "Help successfully deleted."
+msgstr "Hilfe erfolgreich gelöscht."
+
+# application/modules/content/config/io_messages.php ( Line: 25 )
+msgid "Help couldn't be deleted."
+msgstr "Hilfe konnte nicht gelöscht werden."
+
+# application/modules/content/config/io_messages.php ( Line: 27 )
+msgid "New successfully created."
+msgstr "New erfolgreich erstellt."
+
+# application/modules/content/config/io_messages.php ( Line: 28 )
+msgid "Couldn't create new."
+msgstr "Konnte nicht erstellt neue."
+
+# application/modules/content/config/io_messages.php ( Line: 29 )
+msgid "New successfully updated."
+msgstr "New erfolgreich aktualisiert."
+
+# application/modules/content/config/io_messages.php ( Line: 30 )
+msgid "New couldn't be updated."
+msgstr "New konnte nicht aktualisiert werden."
+
+# application/modules/content/config/io_messages.php ( Line: 31 )
+msgid "New successfully deleted."
+msgstr "New erfolgreich gelöscht."
+
+# application/modules/content/config/io_messages.php ( Line: 32 )
+msgid "New couldn't be deleted."
+msgstr "Neue nicht gelöscht werden konnte."
+
+# application/modules/content/config/io_messages.php ( Line: 34 )
+msgid "Page successfully created."
+msgstr "Seite erfolgreich erstellt."
+
+# application/modules/content/config/io_messages.php ( Line: 35 )
+msgid "Couldn't create page."
+msgstr "Seite konnte nicht erstellt werden"
+
+# application/modules/content/config/io_messages.php ( Line: 36 )
+msgid "Page successfully updated."
+msgstr "Seite erfolgreich aktualisiert."
+
+# application/modules/content/config/io_messages.php ( Line: 37 )
+msgid "Page couldn't be updated."
+msgstr "Seite konnte nicht aktualisiert werden."
+
+# application/modules/content/config/io_messages.php ( Line: 38 )
+msgid "Page successfully deleted."
+msgstr "Seite erfolgreich gelöscht."
+
+# application/modules/content/config/io_messages.php ( Line: 39 )
+msgid "Page couldn't be deleted."
+msgstr "Seite konnte nicht gelöscht werden."

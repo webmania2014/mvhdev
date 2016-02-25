@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beo\n"
+"POT-Creation-Date: 2014-09-16 20:11+0630\n"
+"PO-Revision-Date: 2015-04-07 18:49+0630\n"
+"Last-Translator: \n"
+"Language-Team: Ko Ko Zin <kozin@mvhnetworks.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: de_DE\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2;plural=n==1 ? 0 : 1;\n"
+
+# ###################################################
+# Notes Module
+# ###################################################
+# ## General ##
+msgid "Notes"
+msgstr "Aufzeichnungen"
+
+msgid "Add Note"
+msgstr "Notiz Hinzufügen"
+
+msgid "Edit Note"
+msgstr "Notiz bearbeiten"
+
+msgid "Are you sure to delete this note ?"
+msgstr "Sind Sie sicher, dass Sie diese Notiz löschen?"
+
+msgid "It's permanent deletion and there is no way to restore it."
+msgstr ""
+"Es ist definitiv gelöscht und es gibt keinen Weg, um sie wiederherzustellen."
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+# ## Widgets ##
+msgid "No notes found."
+msgstr "Keine Hinweise gefunden."
+
+msgid "Load More Notes"
+msgstr "Legen Weitere Hinweise"
+
+# ## Messages ##
+# application/modules/notes/config/io_messages.php ( Line: 20 )
+msgid "Your note has been saved."
+msgstr "Ihre Anmerkung wurde gespeichert."
+
+# application/modules/notes/config/io_messages.php ( Line: 21 )
+msgid "Your note has not saved."
+msgstr "Notizen: Das nicht gespeichert."
+
+# application/modules/notes/config/io_messages.php ( Line: 22 )
+msgid "Your note has been deleted."
+msgstr "Ihre Anmerkung ist gelöscht worden."
+
+# application/modules/notes/config/io_messages.php ( Line: 23 )
+msgid "Your note hasn't deleted."
+msgstr "Notizen: Das nicht gelöscht."
+
+# application/modules/notes/config/io_messages.php ( Line: 24 )
+msgid "You don't have permission to do that request."
+msgstr "Du bist nicht berechtigt, diesen Antrag tun."
+
+# application/modules/notes/config/io_messages.php ( Line: 25 )
+msgid ""
+"An error was encountered when processing your request. Please try again "
+"later."
+msgstr ""
+"Es wurde ein Fehler bei der Bearbeitung Ihrer Anfrage aufgetreten. Bitte "
+"versuchen Sie es später noch einmal."
+
+# application/modules/notes/config/io_messages.php ( Line: 36 )
+msgid ""
+"<i class=\"fa fa-plus-square blue\"></i> <a href=\"%s\">%s</a> added a <a "
+"href=\"%s\">note</a>."
+msgstr ""
+"<i class=\"fa fa-plus-square blue\"></i> <a href=\"%s\">%s</a> hinzugefügt "
+"<a href=\"%s\">notieren</a>."
+
+# application/modules/notes/config/io_messages.php ( Line: 40 )
+msgid "<i class=\"fa fa-trash red\"></i> <a href=\"%s\">%s</a> removed a note."
+msgstr ""
+"<i class=\"fa fa-trash red\"></i> <a href=\"%s\">%s</a> entfernt eine Notiz."
+
+# application/modules/notes/config/io_messages.php ( Line: 44 )
+msgid ""
+"<i class=\"fa fa-edit\"></i> <a href=\"%s\">%s</a> edited a <a href=\"%s"
+"\">note</a>."
+msgstr ""
+"<i class=\"fa fa-edit\"></i> <a href=\"%s\">%s</a> bearbeitet eine <a href="
+"\"%s\">Notiz</a>."

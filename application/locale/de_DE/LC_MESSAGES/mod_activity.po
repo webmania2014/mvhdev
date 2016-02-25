@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beo\n"
+"POT-Creation-Date: 2014-09-16 20:11+0630\n"
+"PO-Revision-Date: 2015-04-06 20:23+0630\n"
+"Last-Translator: \n"
+"Language-Team: Ko Ko Zin <kozin@mvhnetworks.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: de_DE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2;plural=n==1 ? 0 : 1;\n"
+
+# ###################################################
+# Activity Module
+# ###################################################
+# ## General ###
+# application/modules/activity/controllers/activity.php ( Line: 110 )
+msgid "Activities Log"
+msgstr "Aktivitäten Anmelden"
+
+# ## Widgets ###
+# application/modules/activity/views/widget/recent_activities.php ( Line: 35 )
+msgid "Recent Activities"
+msgstr "Community-Aktivitäten"
+
+# application/modules/activity/views/widget/recent_activities.php ( Line: 68 )
+msgid "See all activities"
+msgstr "Alle Aktivitäten"
+
+# ## Messages ###
+# application/modules/activity/views/
+msgid "You've no activities."
+msgstr "Sie haben keine Aktivitäten."
+
+# application/modules/activity/controllers/activity.php ( Line: 127 )
+msgid ""
+"<i class=\"fa fa-sign-in green\"></i><a href=\"%s\"><strong>%s</strong></a> "
+"signed in on %s."
+msgstr ""
+"<i class=\"fa fa-sign-in green\"></i><a href=\"%s\"><strong>%s</strong></a> "
+"Anmeldung am %s."
+
+# application/modules/activity/controllers/activity.php ( Line: 146 )
+msgid ""
+"<i class=\"fa fa-sign-out grey\"></i><a href=\"%s\"><strong>%s</strong></a> "
+"signed out on %s."
+msgstr ""
+"<i class\"fa fa-sign-out grey\"></i><a href=\"%s\"><strong>%s</strong></a> "
+"unterzeichnet auf %s."
+
+# application/modules/applications/config/io_messages.php ( Line: 36 )
+msgid ""
+"<i class=\"fa fa-plus-square green\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> created an application <a href=\"%s\" class=\"application-details-ajax-"
+"trigger\"><strong>%s</strong></a>."
+msgstr ""
+"<i class=\"fa fa-plus-square green\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> erstellt eine Anwendung <a href=\"%s\" class=\"application-details-ajax-"
+"trigger\"><strong>%s</strong></a>."
+
+# application/modules/applications/config/io_messages.php ( Line: 40 )
+msgid ""
+"<i class=\"fa fa-check-square blue\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> updated an application <a href=\"%s\" class=\"application-details-ajax-"
+"trigger\"><strong>%s</strong></a>."
+msgstr ""
+"<i class=\"fa fa-check-square blue\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> aktualisiert eine Anwendung <a href=\"%s\" class=\"application-details-"
+"ajax-trigger\"><strong>%s</strong></a>."
+
+# application/modules/applications/config/io_messages.php ( Line: 44 )
+msgid ""
+"<i class=\"fa fa-minus-square black\"></i><a href=\"%s\"><strong>%s</"
+"strong></a> deleted an application <strong>%s</strong>."
+msgstr ""
+"<i class=\"fa fa-minus-square black\"></i><a href=\"%s\"><strong>%s</"
+"strong></a> gelöscht eine Anwendung <strong>%s</strong>."
+
+# application/modules/content/config/io_messages.php ( Line: 36 )
+msgid ""
+"<i class=\"fa fa-plus-square green\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> created Help <strong>%s</strong>."
+msgstr ""
+"<i class=\"fa fa-plus-square green\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> erstellt Hilfe <strong>%s</strong>."
+
+# application/modules/content/config/io_messages.php ( Line: 40 )
+msgid ""
+"<i class=\"fa fa-check-square blue\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> updated Help <strong>%s</strong>."
+msgstr ""
+"<i class=\"fa fa-check-square blue\"></i><a href=\"%s\"><strong>%%s</"
+"strong></a> aktualisierte Hilfe <strong>%s</strong>."
+
+# application/modules/content/config/io_messages.php ( Line: 44 )
+msgid ""
+"<i class=\"fa fa-minus-square black\"></i><a href=\"%s\"><strong>%s</"
+"strong></a> deleted Help <strong>%s</strong>."
+msgstr ""
+"<i class=\"fa fa-minus-square black\"></i><a href=\"%s\"><strong>%s</"
+"strong></a> gelöscht Hilfe <strong>%s</strong>."
+
+# application/modules/content/config/io_messages.php ( Line: 48 )
+msgid ""
+"<i class=\"fa fa-plus-square green\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> created New <strong>%s</strong>."
+msgstr ""
+"<i class=\"fa fa-plus-square green\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> erstellt Neue <strong>%s</strong>."
+
+# application/modules/content/config/io_messages.php ( Line: 52 )
+msgid ""
+"<i class=\"fa fa-check-square blue\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> updated New <strong>%s</strong>."
+msgstr ""
+"<i class=\"fa fa-check-square blue\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> aktualisiert Neue <strong>%s</strong>."
+
+# application/modules/content/config/io_messages.php ( Line: 56 )
+msgid ""
+"<i class=\"fa fa-minus-square black\"></i><a href=\"%s\"><strong>%s</"
+"strong></a> deleted New <strong>%s</strong>."
+msgstr ""
+"<i class=\"fa fa-minus-square black\"></i><a href=\"%s\"><strong>%%s</"
+"strong></a> gelöscht Neue <strong>%s</strong>."
+
+# application/modules/content/config/io_messages.php ( Line: 60 )
+msgid ""
+"<i class=\"fa fa-plus-square green\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> created Page <strong>%s</strong>."
+msgstr ""
+"<i class=\"fa fa-plus-square green\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> erstellt Seite <strong>%s</strong>."
+
+# application/modules/content/config/io_messages.php ( Line: 64 )
+msgid ""
+"<i class=\"fa fa-check-square blue\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> updated Page <strong>%s</strong>."
+msgstr ""
+"<i class=\"fa fa-check-square blue\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> aktualisiert Seite <strong>%s</strong>."
+
+# application/modules/content/config/io_messages.php ( Line: 68 )
+msgid ""
+"<i class=\"fa fa-minus-square black\"></i><a href=\"%s\"><strong>%s</"
+"strong></a> deleted Page <strong>%s</strong>."
+msgstr ""
+"<i class=\"fa fa-minus-square black\"></i><a href=\"%s\"><strong>%s</"
+"strong></a> gelöscht Seite <strong>%s</strong>."
+
+# application/modules/invoices/config/io_messages.php ( Line: 34 )
+msgid ""
+"<i class=\"fa fa-plus-square blue\"></i> %s accepted an invoice (<a href=\"%s"
+"\">%s</a>)."
+msgstr ""
+"<i class=\"fa fa-plus-square blue\"></i> %s akzeptiert eine Rechnung (<a "
+"href=\"%s\">%s</a>)."
+
+# application/modules/invoices/config/io_messages.php ( Line: 38 )
+msgid ""
+"<i class=\"fa fa-ban red\"></i> %s rejected an invoice (<a href=\"%s\">%s</"
+"a>)."
+msgstr ""
+"<i class=\"fa fa-ban red\"></i> %s lehnte eine Rechnung (<a href=\"%s\">%s</"
+"a>)."
+
+# application/modules/notes/config/io_messagse.php ( Line: 36 )
+msgid ""
+"<i class=\"fa fa-plus-square blue\"></i> <a href=\"%s\">%s</a> added a <a "
+"href=\"%s\">note</a>."
+msgstr ""
+"<i class=\"fa fa-plus-square blue\"></i> <a href=\"%s\">%s</a> hinzugefügt "
+"eine <a href=\"%s\">Notiz</a>."
+
+# application/modules/notes/config/io_messagse.php ( Line: 40 )
+msgid "<i class=\"fa fa-trash red\"></i> <a href=\"%s\">%s</a> removed a note."
+msgstr ""
+"<i class=\"fa fa-trash red\"></i> <a href=\"%s\">%s</a> entfernt eine Notiz."
+
+# application/modules/notes/config/io_messagse.php ( Line: 44 )
+msgid ""
+"<i class=\"fa fa-edit\"></i> <a href=\"%s\">%s</a> edited a <a href=\"%s"
+"\">note</a>."
+msgstr ""
+"<i class=\"fa fa-edit\"></i> <a href=\"%s\">%s</a> bearbeitet eine <a href="
+"\"%s\">Notiz</a>."
+
+# application/modules/users/config/io_messages.php ( Line: 50 )
+msgid ""
+"<i class=\"fa fa-paper-plane blue\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> sent application form."
+msgstr ""
+"<i class=\"fa fa-papaer-plane blue\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> gesendet Bewerbungsformular."
+
+# application/modules/users/config/io_messages.php ( Line: 54 )
+msgid ""
+"<i class=\"fa fa-plus-square red\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> added new admin <a href=\"%s\"><strong>%s</strong></a>."
+msgstr ""
+"<i class=\"fa fa-plus-square red\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> hat neue Admin <a href=\"%s\"><strong>%s</strong</a>."
+
+# application/modules/users/config/io_messages.php ( Line: 58 )
+msgid ""
+"<i class=\"fa fa-check-square blue\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> updated his profile."
+msgstr ""
+"<i class=\"fa fa-check-square blue\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> sein Profil aktualisiert."
+
+# application/modules/users/config/io_messages.php ( Line: 62 )
+msgid ""
+"<i class=\"fa fa-check-square blue\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> updated profile of <a href=\"%s\"><strong>%s</strong></a>."
+msgstr ""
+"<i class=\"fa fa-check-square blue\"></i><a href=\"%s\"><strong>%s</strong></"
+"a> aktualisiertes Profil von <a href=\"%s\"><strong>%s</strong></a>."
+
+# application/modules/users/config/io_messages.php ( Line: 66 )
+msgid ""
+"<i class=\"fa fa-minus-square black\"></i><a href=\"%s\"><strong>%s</"
+"strong></a> deleted user <strong>%s</strong>."
+msgstr ""
+"<i class=\"fa fa-minus-square black\"></i><a href=\"%s\"><strong>%s</"
+"strong></a> gelöschte Benutzer <strong>%s</strong>."
+
+# application/modules/users/config/io_messages.php ( Line: 70 )
+msgid ""
+"<i class=\"fa fa-pencil blue\"></i><a href=\"%s\"><strong>%s</strong></a> "
+"changed password."
+msgstr ""
+"<i class=\"fa fa-pencil blue\"></i><a href=\"%s\"><strong>%s</strong></a> "
+"geändertes Passwort."
+
+# application/modules/users/config/io_messages.php ( Line: 74 )
+msgid ""
+"<i class=\"fa fa-pencil blue\"></i><a href=\"%s\"><strong>%s</strong></a> "
+"changed his username.'"
+msgstr ""
+"<i class=\"fa fa-pencil blue\"></i><a href=\"%s\"><strong>%s</strong></a> "
+"änderte seinen Benutzernamen ein."
+
+# application/modules/users/config/io_messages.php ( Line: 78 )
+msgid ""
+"<i class=\"fa fa-pencil blue\"></i><a href=\"%s\"><strong>%s</strong></a> "
+"changed username of <a href=\"%s\"><strong>%s</strong></a>."
+msgstr ""
+"<i class=\"fa fa-pencil blue\"></i><a href=\"%s\"><strong>%s</strong></a> "
+"geändert Benutzername von <a href=\"%s\"><strong>%s</strong></a>."
+
+# application/modules/users/config/io_messages.php ( Line: 82 )
+msgid ""
+"<i class=\"fa fa-photo\"></i> <a href=\"%s\"><strong>%s</strong></a> updated "
+"profile picture."
+msgstr ""
+"<i class=\"fa fa-photo\"></i> <a href=\"%s\"><strong>%s</strong></a> "
+"aktualisiert Profilbild."
